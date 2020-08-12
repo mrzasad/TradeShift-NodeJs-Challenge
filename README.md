@@ -1,1 +1,4 @@
-Search for companies by country and name and display the results in a list. Use a selector for the countries and a text input for the company name. The search action will simulate an asynchronous request, load the mocked data from a json file and display the results in a list. You can use a delay of e.g. 1 second to simulate a loading state while waiting for the data. The list of available countries and the mocked search results will be provided as json files, as well as some UI guidelines. 
+This nodejs service will Search for companies by country and name and display the results in a list. 
+The search action will simulate an asynchronous request, load the mocked data from a json file and display the results in a list. 
+Simulate a one second delay in loading state while waiting for the data. The list of available countries and the mocked search results are displayed. 
+Cicking on the record will display record detail in modal pop up. Front end developed in angular
