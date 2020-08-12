@@ -1,0 +1,434 @@
+<S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+        <env:Header>
+           <work:WorkContext xmlns:work="http://oracle.com/weblogic/soap/workarea/">rO0ABXdqAB93ZWJsb2dpYy5hcHAuS0ZIQmFua2luZ0J1c2luZXNzAAAA1gAAACN3ZWJsb2dpYy53b3JrYXJlYS5TdHJpbmdXb3JrQ29udGV4dAAaVjEuMTEuMS5NYXN0ZXIuMTBNYXJjaDIwMjAAAA==</work:WorkContext>
+        </env:Header>
+        <S:Body>
+           <ns0:getBankingStaticDataResponse xmlns:ns0="http://www.openuri.org/" xmlns:ns1="http://www.kfh.com/">
+              <ns0:getBankingStaticDataResult>
+                 <dataTypeDetailList>
+                    <dataTypeDetail>
+                       <dataNameAr>ربة بيت</dataNameAr>
+                       <dataNameEn>Housewife</dataNameEn>
+                       <dataTypeID>17</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>قاصر</dataNameAr>
+                       <dataNameEn>Minor</dataNameEn>
+                       <dataTypeID>18</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>قصر المرحوم</dataNameAr>
+                       <dataNameEn>Dead Minors</dataNameEn>
+                       <dataTypeID>19</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>وصية/ثلث/ربع/وقف</dataNameAr>
+                       <dataNameEn>Will/Third of/Quarter/Waqf</dataNameEn>
+                       <dataTypeID>20</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>موظف بيتك</dataNameAr>
+                       <dataNameEn>KFH Employee</dataNameEn>
+                       <dataTypeID>21</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>موظف حكومى</dataNameAr>
+                       <dataNameEn>Government Employees</dataNameEn>
+                       <dataTypeID>22</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>متقاعد</dataNameAr>
+                       <dataNameEn>Retired</dataNameEn>
+                       <dataTypeID>23</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>طالب</dataNameAr>
+                       <dataNameEn>Student</dataNameEn>
+                       <dataTypeID>24</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>اعمال حرة</dataNameAr>
+                       <dataNameEn>Freelancers</dataNameEn>
+                       <dataTypeID>25</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>موظف قطاع خاص</dataNameAr>
+                       <dataNameEn>Private Sector Employee</dataNameEn>
+                       <dataTypeID>29</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>عسكرى</dataNameAr>
+                       <dataNameEn>Military</dataNameEn>
+                       <dataTypeID>30</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>حسابات مشتركة</dataNameAr>
+                       <dataNameEn>Joint Accounts</dataNameEn>
+                       <dataTypeID>32</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>اخري</dataNameAr>
+                       <dataNameEn>Other</dataNameEn>
+                       <dataTypeID>90</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>النفط الخام والغازات</dataNameAr>
+                       <dataNameEn>Crude oil and gas</dataNameEn>
+                       <dataTypeID>200</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>النفط الخام</dataNameAr>
+                       <dataNameEn>Crude oil</dataNameEn>
+                       <dataTypeID>201</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>منتجات البترول المكررة</dataNameAr>
+                       <dataNameEn>Refined petroleum products</dataNameEn>
+                       <dataTypeID>202</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الغاز الطبيعي</dataNameAr>
+                       <dataNameEn>Natural Gas</dataNameEn>
+                       <dataTypeID>203</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الغازات الصناعية</dataNameAr>
+                       <dataNameEn>Industrial gases</dataNameEn>
+                       <dataTypeID>204</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الزراعة وصيد الاسماك</dataNameAr>
+                       <dataNameEn>Agriculture and Fisheries</dataNameEn>
+                       <dataTypeID>205</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الزراعه</dataNameAr>
+                       <dataNameEn>Agriculture</dataNameEn>
+                       <dataTypeID>206</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>صيد الاسماك</dataNameAr>
+                       <dataNameEn>Fishing</dataNameEn>
+                       <dataTypeID>207</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>منتجات الالبان والدواجن</dataNameAr>
+                       <dataNameEn>Dairy and Poultry</dataNameEn>
+                       <dataTypeID>208</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>مستوردوا الابقار والاغنام</dataNameAr>
+                       <dataNameEn>Cattle and Sheep Importers</dataNameEn>
+                       <dataTypeID>209</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>التصنيع</dataNameAr>
+                       <dataNameEn>Manufacturing</dataNameEn>
+                       <dataTypeID>210</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>البتروكيماويات</dataNameAr>
+                       <dataNameEn>Petrochemical</dataNameEn>
+                       <dataTypeID>211</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>بناء السفن</dataNameAr>
+                       <dataNameEn>Shipbuilding</dataNameEn>
+                       <dataTypeID>212</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>صناعة الفولاذ والمعادن</dataNameAr>
+                       <dataNameEn>Steels and metals industry</dataNameEn>
+                       <dataTypeID>213</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>كراجات السيارات والمشاغل</dataNameAr>
+                       <dataNameEn>Garages cars and concerns</dataNameEn>
+                       <dataTypeID>214</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>ورشات النجارة</dataNameAr>
+                       <dataNameEn>Carpentry workshops</dataNameEn>
+                       <dataTypeID>215</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>مخازن تبريد ومصانع ثلج</dataNameAr>
+                       <dataNameEn>Storage and ice factories</dataNameEn>
+                       <dataTypeID>216</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>مصانع الرخام والبلاط</dataNameAr>
+                       <dataNameEn>Marble and tile factories</dataNameEn>
+                       <dataTypeID>217</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>المطابع</dataNameAr>
+                       <dataNameEn>Presses</dataNameEn>
+                       <dataTypeID>218</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>مصانع الاسمنت</dataNameAr>
+                       <dataNameEn>Cement Factories</dataNameEn>
+                       <dataTypeID>219</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>مصانع الاسبستس والانابيب</dataNameAr>
+                       <dataNameEn>Asbestos factories and pipelines</dataNameEn>
+                       <dataTypeID>220</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>المبانى الجاهزه والطابوق</dataNameAr>
+                       <dataNameEn>Prefabricated buildings and brick</dataNameEn>
+                       <dataTypeID>221</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>صناعه الاغذيه والمشروبات</dataNameAr>
+                       <dataNameEn>The food and beverage industry</dataNameEn>
+                       <dataTypeID>222</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الصناعات الاخرى</dataNameAr>
+                       <dataNameEn>Other industries</dataNameEn>
+                       <dataTypeID>223</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الانشاء</dataNameAr>
+                       <dataNameEn>Construction</dataNameEn>
+                       <dataTypeID>224</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>مصانع خلط الخرسانة</dataNameAr>
+                       <dataNameEn>Concrete mixing plants</dataNameEn>
+                       <dataTypeID>225</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>مواد الانشاء</dataNameAr>
+                       <dataNameEn>Construction materials</dataNameEn>
+                       <dataTypeID>226</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>المقاولون</dataNameAr>
+                       <dataNameEn>Contractors</dataNameEn>
+                       <dataTypeID>227</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>اعمال الانشاء الاخرى</dataNameAr>
+                       <dataNameEn>Other construction work</dataNameEn>
+                       <dataTypeID>228</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>التجارة - استهلاكية معمرة</dataNameAr>
+                       <dataNameEn>Commerce - Consumer durables</dataNameEn>
+                       <dataTypeID>229</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>السيارات</dataNameAr>
+                       <dataNameEn>Cars</dataNameEn>
+                       <dataTypeID>230</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الثلاجات</dataNameAr>
+                       <dataNameEn>Refrigerators</dataNameEn>
+                       <dataTypeID>231</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>اجهزه التكييف</dataNameAr>
+                       <dataNameEn>Air Conditioners</dataNameEn>
+                       <dataTypeID>232</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>اجهزه كهربائيه اخرى</dataNameAr>
+                       <dataNameEn>Other electrical devices</dataNameEn>
+                       <dataTypeID>233</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>سلع معمره اخرى</dataNameAr>
+                       <dataNameEn>Other durable goods</dataNameEn>
+                       <dataTypeID>234</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>التجارة - سلع استهلاكية</dataNameAr>
+                       <dataNameEn>Trade-Consumer Goods</dataNameEn>
+                       <dataTypeID>235</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>ارز</dataNameAr>
+                       <dataNameEn>Rice</dataNameEn>
+                       <dataTypeID>236</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>سكر</dataNameAr>
+                       <dataNameEn>Sugar</dataNameEn>
+                       <dataTypeID>237</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>اغذيه اخرى</dataNameAr>
+                       <dataNameEn>Other Food</dataNameEn>
+                       <dataTypeID>238</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>منسوجات وجلود واقمشه</dataNameAr>
+                       <dataNameEn>Textiles and leather and fabrics</dataNameEn>
+                       <dataTypeID>239</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>سلع استهلاكيه اخرى</dataNameAr>
+                       <dataNameEn>Other FMCG</dataNameEn>
+                       <dataTypeID>240</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الخدمات العامه</dataNameAr>
+                       <dataNameEn>Public services</dataNameEn>
+                       <dataTypeID>241</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الكهرباء</dataNameAr>
+                       <dataNameEn>Electricity</dataNameEn>
+                       <dataTypeID>242</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الماء</dataNameAr>
+                       <dataNameEn>Water</dataNameEn>
+                       <dataTypeID>243</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الغاز</dataNameAr>
+                       <dataNameEn>Gas</dataNameEn>
+                       <dataTypeID>244</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>النقل</dataNameAr>
+                       <dataNameEn>Transportation</dataNameEn>
+                       <dataTypeID>246</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الحكومه</dataNameAr>
+                       <dataNameEn>Government</dataNameEn>
+                       <dataTypeID>247</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>مهنيه</dataNameAr>
+                       <dataNameEn>Professional</dataNameEn>
+                       <dataTypeID>248</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>خدمات اخرى</dataNameAr>
+                       <dataNameEn>Other Services</dataNameEn>
+                       <dataTypeID>249</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>تجارة العقارات</dataNameAr>
+                       <dataNameEn>Real Estate Trade</dataNameEn>
+                       <dataTypeID>253</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>شراء اوراق مالية</dataNameAr>
+                       <dataNameEn>Purchase of securities</dataNameEn>
+                       <dataTypeID>254</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>المؤسسات الماليه</dataNameAr>
+                       <dataNameEn>Financial institutions</dataNameEn>
+                       <dataTypeID>255</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>التامين</dataNameAr>
+                       <dataNameEn>Insurance</dataNameEn>
+                       <dataTypeID>256</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الصرافون</dataNameAr>
+                       <dataNameEn>Cashiers</dataNameEn>
+                       <dataTypeID>257</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>مؤسسات تمويل اخرى غيربنوك</dataNameAr>
+                       <dataNameEn>Other finance institutions-Not Banks</dataNameEn>
+                       <dataTypeID>258</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>ماليه اخرى</dataNameAr>
+                       <dataNameEn>Other financial</dataNameEn>
+                       <dataTypeID>259</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>صناعة الملابس</dataNameAr>
+                       <dataNameEn>Clothing industry</dataNameEn>
+                       <dataTypeID>260</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>تجارة العقارات</dataNameAr>
+                       <dataNameEn>Real Estate Trade</dataNameEn>
+                       <dataTypeID>268</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>شراء أوراق مالية</dataNameAr>
+                       <dataNameEn>Purchase of Securities</dataNameEn>
+                       <dataTypeID>269</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>تجارة الذهب والمعادن الثمينة</dataNameAr>
+                       <dataNameEn>Gold and Precious Metals Trade</dataNameEn>
+                       <dataTypeID>270</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>تجارة القوارب والمعدات البحرية</dataNameAr>
+                       <dataNameEn>Boats and Marine Equipment Trade</dataNameEn>
+                       <dataTypeID>271</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>تجارة التحف الثمينة</dataNameAr>
+                       <dataNameEn>Precious Artifacts Trade</dataNameEn>
+                       <dataTypeID>272</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جمعيات تعاونية</dataNameAr>
+                       <dataNameEn>Cooperative Societies</dataNameEn>
+                       <dataTypeID>273</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جمعيات وأعمال خيرية</dataNameAr>
+                       <dataNameEn>Associations and Charities Business</dataNameEn>
+                       <dataTypeID>274</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>مدارس وتعليم</dataNameAr>
+                       <dataNameEn>Schools and Education</dataNameEn>
+                       <dataTypeID>275</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>نقابات واتحادات</dataNameAr>
+                       <dataNameEn>Unions and Associations</dataNameEn>
+                       <dataTypeID>276</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>صناديق ضمان العاملين</dataNameAr>
+                       <dataNameEn>Ensure Employees Funds</dataNameEn>
+                       <dataTypeID>277</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>مبرات خيرية</dataNameAr>
+                       <dataNameEn>Charities</dataNameEn>
+                       <dataTypeID>278</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>نوادي</dataNameAr>
+                       <dataNameEn>Clubs</dataNameEn>
+                       <dataTypeID>279</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>عيادات/مستشفيات/مختبرات</dataNameAr>
+                       <dataNameEn>Clinics/Hospitals/Laboratories</dataNameEn>
+                       <dataTypeID>280</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>بنوك</dataNameAr>
+                       <dataNameEn>Banks</dataNameEn>
+                       <dataTypeID>281</dataTypeID>
+                    </dataTypeDetail>
+                 </dataTypeDetailList>
+                 <dataTypeName>CustomerActivities</dataTypeName>
+              </ns0:getBankingStaticDataResult>
+           </ns0:getBankingStaticDataResponse>
+        </S:Body>
+     </S:Envelope>

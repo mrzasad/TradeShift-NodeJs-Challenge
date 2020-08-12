@@ -1,0 +1,189 @@
+<S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+   <env:Header>
+      <work:WorkContext xmlns:work="http://oracle.com/weblogic/soap/workarea/">rO0ABXdpAB93ZWJsb2dpYy5hcHAuS0ZIQmFua2luZ0J1c2luZXNzAAAA1gAAACN3ZWJsb2dpYy53b3JrYXJlYS5TdHJpbmdXb3JrQ29udGV4dAAZVjEuMTIuMC5NYXN0ZXIuMTNKdW5lMjAyMAAA</work:WorkContext>
+   </env:Header>
+   <S:Body>
+      <ns0:getBankingStaticDataResponse xmlns:ns0="http://www.openuri.org/" xmlns:ns1="http://www.kfh.com/">
+         <ns0:getBankingStaticDataResult>
+            <dataTypeDetailList>
+               <dataTypeDetail>
+                  <dataNameAr>الاب</dataNameAr>
+                  <dataNameEn>Father</dataNameEn>
+                  <dataTypeID>2</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>الام</dataNameAr>
+                  <dataNameEn>Mother</dataNameEn>
+                  <dataTypeID>3</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>الزوج</dataNameAr>
+                  <dataNameEn>Husband</dataNameEn>
+                  <dataTypeID>4</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>الزوجه</dataNameAr>
+                  <dataNameEn>Wife</dataNameEn>
+                  <dataTypeID>5</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>الابن</dataNameAr>
+                  <dataNameEn>Son</dataNameEn>
+                  <dataTypeID>6</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>الابنه</dataNameAr>
+                  <dataNameEn>Daughter</dataNameEn>
+                  <dataTypeID>7</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>الاخ</dataNameAr>
+                  <dataNameEn>Brother</dataNameEn>
+                  <dataTypeID>8</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>الاخت</dataNameAr>
+                  <dataNameEn>Sister</dataNameEn>
+                  <dataTypeID>9</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>الوكيل</dataNameAr>
+                  <dataNameEn>Attorney</dataNameEn>
+                  <dataTypeID>10</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>ولي قاصر</dataNameAr>
+                  <dataNameEn>Guardian</dataNameEn>
+                  <dataTypeID>11</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>العم</dataNameAr>
+                  <dataNameEn>Uncle</dataNameEn>
+                  <dataTypeID>12</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>الخال</dataNameAr>
+                  <dataNameEn>Uncle</dataNameEn>
+                  <dataTypeID>13</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>الخاله</dataNameAr>
+                  <dataNameEn>Aunt</dataNameEn>
+                  <dataTypeID>14</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>الكفيل</dataNameAr>
+                  <dataNameEn>Guarantor</dataNameEn>
+                  <dataTypeID>15</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>شريك</dataNameAr>
+                  <dataNameEn>Partner</dataNameEn>
+                  <dataTypeID>16</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>الجد</dataNameAr>
+                  <dataNameEn>Grandpa</dataNameEn>
+                  <dataTypeID>17</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>الحفيد</dataNameAr>
+                  <dataNameEn>Grandchild</dataNameEn>
+                  <dataTypeID>18</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>الجده</dataNameAr>
+                  <dataNameEn>Grandma</dataNameEn>
+                  <dataTypeID>19</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>العمه</dataNameAr>
+                  <dataNameEn>Aunt</dataNameEn>
+                  <dataTypeID>20</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>شركاء في حساب مديونية مشترك</dataNameAr>
+                  <dataNameEn>Joint Customer list</dataNameEn>
+                  <dataTypeID>38</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>مالك المؤسسة</dataNameAr>
+                  <dataNameEn>Owner</dataNameEn>
+                  <dataTypeID>39</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>شركاء - مساهم - ملاك</dataNameAr>
+                  <dataNameEn>Owned By</dataNameEn>
+                  <dataTypeID>40</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>شريك في حساب مديونية مشترك</dataNameAr>
+                  <dataNameEn>Joint Customer Partn</dataNameEn>
+                  <dataTypeID>41</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>شريك متضامن</dataNameAr>
+                  <dataNameEn>Solidarity Partner</dataNameEn>
+                  <dataTypeID>42</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>شريك - شريك موصي - مساهم ثانوي</dataNameAr>
+                  <dataNameEn>Minor Partner</dataNameEn>
+                  <dataTypeID>43</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>شريك - مساهم رئيسي</dataNameAr>
+                  <dataNameEn>Major Partner (+50%)</dataNameEn>
+                  <dataTypeID>44</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>قائمة الشركاء - المساهمين</dataNameAr>
+                  <dataNameEn>Partnership List</dataNameEn>
+                  <dataTypeID>45</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>رئيس مجلس الإدارة</dataNameAr>
+                  <dataNameEn>Chairman</dataNameEn>
+                  <dataTypeID>46</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>نائب رئيس مجلس الإدارة</dataNameAr>
+                  <dataNameEn>Deputy Chairman</dataNameEn>
+                  <dataTypeID>47</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>عضو منتدب</dataNameAr>
+                  <dataNameEn>Managing Board Membe</dataNameEn>
+                  <dataTypeID>48</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>عضو مجلس الإدارة</dataNameAr>
+                  <dataNameEn>Board Member</dataNameEn>
+                  <dataTypeID>49</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>أعضاء مجلس الإدارة</dataNameAr>
+                  <dataNameEn>Board List</dataNameEn>
+                  <dataTypeID>50</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>طرف له سلطة إدارية</dataNameAr>
+                  <dataNameEn>Adminitrative Party</dataNameEn>
+                  <dataTypeID>51</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>طرف له ترابط إقتصادي</dataNameAr>
+                  <dataNameEn>Economical Party</dataNameEn>
+                  <dataTypeID>52</dataTypeID>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>لا علاقة</dataNameAr>
+                  <dataNameEn>No_Relation</dataNameEn>
+                  <dataTypeID>53</dataTypeID>
+               </dataTypeDetail>
+            </dataTypeDetailList>
+            <dataTypeName>ExternalRelationList</dataTypeName>
+         </ns0:getBankingStaticDataResult>
+      </ns0:getBankingStaticDataResponse>
+   </S:Body>
+</S:Envelope>

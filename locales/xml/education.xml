@@ -1,0 +1,59 @@
+  <S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+        <env:Header>
+           <work:WorkContext xmlns:work="http://oracle.com/weblogic/soap/workarea/">rO0ABXdqAB93ZWJsb2dpYy5hcHAuS0ZIQmFua2luZ0J1c2luZXNzAAAA1gAAACN3ZWJsb2dpYy53b3JrYXJlYS5TdHJpbmdXb3JrQ29udGV4dAAaVjEuMTEuMS5NYXN0ZXIuMTBNYXJjaDIwMjAAAA==</work:WorkContext>
+        </env:Header>
+        <S:Body>
+           <ns0:getBankingStaticDataResponse xmlns:ns0="http://www.openuri.org/" xmlns:ns1="http://www.kfh.com/">
+              <ns0:getBankingStaticDataResult>
+                 <dataTypeDetailList>
+                    <dataTypeDetail>
+                       <dataNameAr>دراسات عليا</dataNameAr>
+                       <dataNameEn>Graduate</dataNameEn>
+                       <dataTypeID>2</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جامعي</dataNameAr>
+                       <dataNameEn>Collage</dataNameEn>
+                       <dataTypeID>3</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>دبلوم</dataNameAr>
+                       <dataNameEn>Diploma</dataNameEn>
+                       <dataTypeID>4</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>ثانوي</dataNameAr>
+                       <dataNameEn>Secondary</dataNameEn>
+                       <dataTypeID>5</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>متوسط</dataNameAr>
+                       <dataNameEn>Intermediate</dataNameEn>
+                       <dataTypeID>6</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>ابتدائي</dataNameAr>
+                       <dataNameEn>Primary</dataNameEn>
+                       <dataTypeID>7</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>يجيد القراءه والكتابه</dataNameAr>
+                       <dataNameEn>Read and write</dataNameEn>
+                       <dataTypeID>8</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>أمي</dataNameAr>
+                       <dataNameEn>Illiterate</dataNameEn>
+                       <dataTypeID>9</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>ماستر</dataNameAr>
+                       <dataNameEn>Master</dataNameEn>
+                       <dataTypeID>10</dataTypeID>
+                    </dataTypeDetail>
+                 </dataTypeDetailList>
+                 <dataTypeName>education</dataTypeName>
+              </ns0:getBankingStaticDataResult>
+           </ns0:getBankingStaticDataResponse>
+        </S:Body>
+     </S:Envelope>

@@ -1,0 +1,4 @@
+{   
+    "ignore": ["public/*", "logs/*"],
+    "delay": "1500"
+}

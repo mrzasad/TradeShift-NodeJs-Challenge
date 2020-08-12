@@ -1,0 +1,34 @@
+<S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+   <env:Header>
+      <work:WorkContext xmlns:work="http://oracle.com/weblogic/soap/workarea/">rO0ABXdoAB93ZWJsb2dpYy5hcHAuS0ZIQmFua2luZ0J1c2luZXNzAAAA1gAAACN3ZWJsb2dpYy53b3JrYXJlYS5TdHJpbmdXb3JrQ29udGV4dAAYVjEuMTEuNC5NYXN0ZXIuMDFKdW4yMDIwAAA=</work:WorkContext>
+   </env:Header>
+   <S:Body>
+      <ns0:getBankingStaticDataResponse xmlns:ns0="http://www.openuri.org/" xmlns:ns1="http://www.kfh.com/">
+         <ns0:getBankingStaticDataResult>
+            <dataTypeDetailList>
+               <dataTypeDetail>
+                  <dataNameAr>تعاملات نقدية</dataNameAr>
+                  <dataNameEn>تعاملات نقدية</dataNameEn>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>شيكات</dataNameAr>
+                  <dataNameEn>شيكات</dataNameEn>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>تحويلات محلية</dataNameAr>
+                  <dataNameEn>تحويلات محلية</dataNameEn>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>تحويلات للخارج</dataNameAr>
+                  <dataNameEn>تحويلات للخارج</dataNameEn>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>كل ما سبق</dataNameAr>
+                  <dataNameEn>كل ما سبق</dataNameEn>
+               </dataTypeDetail>
+            </dataTypeDetailList>
+            <dataTypeName>Add_ExpTranType</dataTypeName>
+         </ns0:getBankingStaticDataResult>
+      </ns0:getBankingStaticDataResponse>
+   </S:Body>
+</S:Envelope>

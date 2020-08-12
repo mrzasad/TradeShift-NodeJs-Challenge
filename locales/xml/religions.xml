@@ -1,0 +1,24 @@
+<S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+        <env:Header>
+           <work:WorkContext xmlns:work="http://oracle.com/weblogic/soap/workarea/">rO0ABXdqAB93ZWJsb2dpYy5hcHAuS0ZIQmFua2luZ0J1c2luZXNzAAAA1gAAACN3ZWJsb2dpYy53b3JrYXJlYS5TdHJpbmdXb3JrQ29udGV4dAAaVjEuMTEuMS5NYXN0ZXIuMTBNYXJjaDIwMjAAAA==</work:WorkContext>
+        </env:Header>
+        <S:Body>
+           <ns0:getBankingStaticDataResponse xmlns:ns0="http://www.openuri.org/" xmlns:ns1="http://www.kfh.com/">
+              <ns0:getBankingStaticDataResult>
+                 <dataTypeDetailList>
+                    <dataTypeDetail>
+                       <dataNameAr>مسلم</dataNameAr>
+                       <dataNameEn>Muslim</dataNameEn>
+                       <dataTypeID>1</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>غير مسلم</dataNameAr>
+                       <dataNameEn>NonMuslim</dataNameEn>
+                       <dataTypeID>2</dataTypeID>
+                    </dataTypeDetail>
+                 </dataTypeDetailList>
+                 <dataTypeName>religions</dataTypeName>
+              </ns0:getBankingStaticDataResult>
+           </ns0:getBankingStaticDataResponse>
+        </S:Body>
+     </S:Envelope>

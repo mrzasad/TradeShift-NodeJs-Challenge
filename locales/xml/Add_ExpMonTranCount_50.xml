@@ -1,0 +1,30 @@
+<S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+   <env:Header>
+      <work:WorkContext xmlns:work="http://oracle.com/weblogic/soap/workarea/">rO0ABXdoAB93ZWJsb2dpYy5hcHAuS0ZIQmFua2luZ0J1c2luZXNzAAAA1gAAACN3ZWJsb2dpYy53b3JrYXJlYS5TdHJpbmdXb3JrQ29udGV4dAAYVjEuMTEuNC5NYXN0ZXIuMDFKdW4yMDIwAAA=</work:WorkContext>
+   </env:Header>
+   <S:Body>
+      <ns0:getBankingStaticDataResponse xmlns:ns0="http://www.openuri.org/" xmlns:ns1="http://www.kfh.com/">
+         <ns0:getBankingStaticDataResult>
+            <dataTypeDetailList>
+               <dataTypeDetail>
+                  <dataNameAr>1-100</dataNameAr>
+                  <dataNameEn>1-100</dataNameEn>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>101-200</dataNameAr>
+                  <dataNameEn>101-200</dataNameEn>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>201-500</dataNameAr>
+                  <dataNameEn>201-500</dataNameEn>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>اكثر من 500</dataNameAr>
+                  <dataNameEn>اكثر من 500</dataNameEn>
+               </dataTypeDetail>
+            </dataTypeDetailList>
+            <dataTypeName>Add_ExpMonTranCount</dataTypeName>
+         </ns0:getBankingStaticDataResult>
+      </ns0:getBankingStaticDataResponse>
+   </S:Body>
+</S:Envelope>

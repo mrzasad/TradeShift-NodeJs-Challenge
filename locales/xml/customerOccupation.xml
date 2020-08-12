@@ -1,0 +1,139 @@
+<S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+        <env:Header>
+           <work:WorkContext xmlns:work="http://oracle.com/weblogic/soap/workarea/">rO0ABXdqAB93ZWJsb2dpYy5hcHAuS0ZIQmFua2luZ0J1c2luZXNzAAAA1gAAACN3ZWJsb2dpYy53b3JrYXJlYS5TdHJpbmdXb3JrQ29udGV4dAAaVjEuMTEuMS5NYXN0ZXIuMTFNYXJjaDIwMjAAAA==</work:WorkContext>
+        </env:Header>
+        <S:Body>
+           <ns0:getBankingStaticDataResponse xmlns:ns0="http://www.openuri.org/" xmlns:ns1="http://www.kfh.com/">
+              <ns0:getBankingStaticDataResult>
+                 <dataTypeDetailList>
+                    <dataTypeDetail>
+                       <dataNameAr>محاسب</dataNameAr>
+                       <dataNameEn>Accountant</dataNameEn>
+                       <dataTypeID>12021</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>دكتور جامعي</dataNameAr>
+                       <dataNameEn>University Professor</dataNameEn>
+                       <dataTypeID>12022</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>طبيب</dataNameAr>
+                       <dataNameEn>Doctor</dataNameEn>
+                       <dataTypeID>12024</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>محامى</dataNameAr>
+                       <dataNameEn>Lawyer</dataNameEn>
+                       <dataTypeID>12025</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>تاجر</dataNameAr>
+                       <dataNameEn>Merchant</dataNameEn>
+                       <dataTypeID>12026</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>ضابط</dataNameAr>
+                       <dataNameEn>Officer</dataNameEn>
+                       <dataTypeID>12029</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>مدقق</dataNameAr>
+                       <dataNameEn>Auditor</dataNameEn>
+                       <dataTypeID>12030</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>مبرمج</dataNameAr>
+                       <dataNameEn>Programmer</dataNameEn>
+                       <dataTypeID>12031</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>محلل نظم</dataNameAr>
+                       <dataNameEn>Systems Analyst</dataNameEn>
+                       <dataTypeID>12032</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>مهندس</dataNameAr>
+                       <dataNameEn>Engineer</dataNameEn>
+                       <dataTypeID>12045</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>عامل</dataNameAr>
+                       <dataNameEn>Laborer</dataNameEn>
+                       <dataTypeID>12046</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>عسكرى</dataNameAr>
+                       <dataNameEn>Military</dataNameEn>
+                       <dataTypeID>12056</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>طالب</dataNameAr>
+                       <dataNameEn>Student</dataNameEn>
+                       <dataTypeID>12057</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>رئيس مجلس اداره</dataNameAr>
+                       <dataNameEn>Chairman</dataNameEn>
+                       <dataTypeID>12062</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>قانوني</dataNameAr>
+                       <dataNameEn>Legist</dataNameEn>
+                       <dataTypeID>12063</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>متقاعد</dataNameAr>
+                       <dataNameEn>Retired</dataNameEn>
+                       <dataTypeID>12067</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>موظف قطاع خاص</dataNameAr>
+                       <dataNameEn>Private Employee</dataNameEn>
+                       <dataTypeID>12068</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>اعمال حرة</dataNameAr>
+                       <dataNameEn>Freelance</dataNameEn>
+                       <dataTypeID>12069</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>سفير</dataNameAr>
+                       <dataNameEn>Ambassador</dataNameEn>
+                       <dataTypeID>12070</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>نائب في مجلس الامه</dataNameAr>
+                       <dataNameEn>Member of National Assembly</dataNameEn>
+                       <dataTypeID>12071</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>وزير</dataNameAr>
+                       <dataNameEn>Minister</dataNameEn>
+                       <dataTypeID>12072</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>وكيل وزارة</dataNameAr>
+                       <dataNameEn>Undersecretary of the Ministry</dataNameEn>
+                       <dataTypeID>12073</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>وكيل مساعد</dataNameAr>
+                       <dataNameEn>Assistant undersecretary</dataNameEn>
+                       <dataTypeID>12074</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>رئيس دولة</dataNameAr>
+                       <dataNameEn>Head of State</dataNameEn>
+                       <dataTypeID>12075</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>رئيس وزراء</dataNameAr>
+                       <dataNameEn>Prime Minister</dataNameEn>
+                       <dataTypeID>12076</dataTypeID>
+                    </dataTypeDetail>
+                 </dataTypeDetailList>
+                 <dataTypeName>customerOccupation</dataTypeName>
+              </ns0:getBankingStaticDataResult>
+           </ns0:getBankingStaticDataResponse>
+        </S:Body>
+     </S:Envelope>

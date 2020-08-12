@@ -1,0 +1,9 @@
+tags:
+  - name: Reference Map Data
+    description: >-
+      This service provides a way to get the reference map data.
+
+x-tagGroups:
+  - name: Reference Map Data
+    tags:
+      - Reference Map Data

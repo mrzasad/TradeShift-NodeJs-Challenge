@@ -1,0 +1,38 @@
+<S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+   <env:Header>
+      <work:WorkContext xmlns:work="http://oracle.com/weblogic/soap/workarea/">rO0ABXdoAB93ZWJsb2dpYy5hcHAuS0ZIQmFua2luZ0J1c2luZXNzAAAA1gAAACN3ZWJsb2dpYy53b3JrYXJlYS5TdHJpbmdXb3JrQ29udGV4dAAYVjEuMTEuNC5NYXN0ZXIuMDFKdW4yMDIwAAA=</work:WorkContext>
+   </env:Header>
+   <S:Body>
+      <ns0:getBankingStaticDataResponse xmlns:ns0="http://www.openuri.org/" xmlns:ns1="http://www.kfh.com/">
+         <ns0:getBankingStaticDataResult>
+            <dataTypeDetailList>
+               <dataTypeDetail>
+                  <dataNameAr>24راتب</dataNameAr>
+                  <dataNameEn>راتب</dataNameEn>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>توفير وادخار</dataNameAr>
+                  <dataNameEn>توفير وادخار</dataNameEn>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>أرباح تجارية</dataNameAr>
+                  <dataNameEn>أرباح تجارية</dataNameEn>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>عائد من نشاط</dataNameAr>
+                  <dataNameEn>عائد من نشاط</dataNameEn>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>استثمار</dataNameAr>
+                  <dataNameEn>استثمار</dataNameEn>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>كل ما سبق</dataNameAr>
+                  <dataNameEn>كل ما سبق</dataNameEn>
+               </dataTypeDetail>
+            </dataTypeDetailList>
+            <dataTypeName>Add_DealingReason</dataTypeName>
+         </ns0:getBankingStaticDataResult>
+      </ns0:getBankingStaticDataResponse>
+   </S:Body>
+</S:Envelope>

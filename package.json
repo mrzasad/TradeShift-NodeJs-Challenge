@@ -1,0 +1,93 @@
+{
+  "name": "fs.es.static.api",
+  "version": "1.0.0",
+  "description": "A boilerplate for Node.js conduit services",
+  "keywords": [
+    "node",
+    "es6",
+    "express",
+    "mssql",
+    "oracle",
+    "docker",
+    "microservice"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/mrzasad"
+  },
+  "author": {
+    "name": "Asad Ullah",
+    "email": "mrzasad@gmail.com"
+  },
+  "contributors": [
+    "Asad  Ullah <mrzasad@gmail.com>"
+  ],
+  "main": "bin/start.js",
+  "scripts": {
+    "start": "npm run start:prod",
+    "build": "./node_modules/.bin/babel ./ --out-dir dist --ignore 'node_modules/**/*.js'",
+    "build:prod": "NODE_ENV=production npm-run-all clean build",
+    "server": "babel-node ./bin/start.js",
+    "server:prod": "node ./dist/bin/start.js",
+    "start:dev": "cross-env NODE_ENV=development nodemon --ignore './public/' --exec npm run server",
+    "start:prod": "NODE_ENV=production && npm run server:prod",
+    "lint": "eslint \"**/*.js\"",
+    "clean": "rimraf dist",
+    "test": "cross-env NODE_ENV=testing jest --testTimeout=20000 --watchAll "
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "conduit-app-error": "^1.0.12",
+    "conduit-app-response": "^1.0.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-winston": "^4.0.3",
+    "get-google-fonts": "^1.2.2",
+    "is-base64": "^1.1.0",
+    "joi": "^14.3.1",
+    "knex": "^0.19.5",
+    "lodash": "^4.17.19",
+    "moment-timezone": "^0.5.31",
+    "morgan": "^1.10.0",
+    "mssql": "^5.1.1",
+    "swagger-jsdoc": "^3.7.0",
+    "tedious": "^6.7.0",
+    "winston": "^3.2.1",
+    "winston-daily-rotate-file": "^4.4.2",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/node": "^7.8.7",
+    "@babel/plugin-transform-runtime": "^7.9.0",
+    "@babel/polyfill": "^7.8.7",
+    "@babel/preset-env": "^7.9.5",
+    "@babel/register": "^7.9.0",
+    "@types/body-parser": "^1.19.0",
+    "@types/express": "^4.17.6",
+    "babel-eslint": "^7.2.3",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "cross-env": "^7.0.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.19.1",
+    "husky": "^3.0.9",
+    "jest": "^24.9.0",
+    "lint-staged": "^10.1.5",
+    "nodemon": "^1.19.4",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^1.18.2",
+    "rimraf": "^3.0.2",
+    "watch": "^1.0.2"
+  },
+  "engines": {
+    "node": "12.16.2",
+    "npm": "~6.12.0"
+  },
+  "license": "ISC"
+}

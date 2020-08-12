@@ -1,0 +1,44 @@
+<S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+        <env:Header>
+           <work:WorkContext xmlns:work="http://oracle.com/weblogic/soap/workarea/">rO0ABXdqAB93ZWJsb2dpYy5hcHAuS0ZIQmFua2luZ0J1c2luZXNzAAAA1gAAACN3ZWJsb2dpYy53b3JrYXJlYS5TdHJpbmdXb3JrQ29udGV4dAAaVjEuMTEuMS5NYXN0ZXIuMTBNYXJjaDIwMjAAAA==</work:WorkContext>
+        </env:Header>
+        <S:Body>
+           <ns0:getBankingStaticDataResponse xmlns:ns0="http://www.openuri.org/" xmlns:ns1="http://www.kfh.com/">
+              <ns0:getBankingStaticDataResult>
+                 <dataTypeDetailList>
+                    <dataTypeDetail>
+                       <dataNameAr>العاصمة</dataNameAr>
+                       <dataNameEn>Assema</dataNameEn>
+                       <dataTypeID>1</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الجهراء</dataNameAr>
+                       <dataNameEn>Jahra</dataNameEn>
+                       <dataTypeID>2</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الفروانية</dataNameAr>
+                       <dataNameEn>Farwaniya</dataNameEn>
+                       <dataTypeID>3</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>حولى</dataNameAr>
+                       <dataNameEn>Hawally</dataNameEn>
+                       <dataTypeID>4</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الأحمدى</dataNameAr>
+                       <dataNameEn>Ahmadi</dataNameEn>
+                       <dataTypeID>5</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>مبارك الكبير</dataNameAr>
+                       <dataNameEn>Mubarak Al-Kabir</dataNameEn>
+                       <dataTypeID>6</dataTypeID>
+                    </dataTypeDetail>
+                 </dataTypeDetailList>
+                 <dataTypeName>provinces</dataTypeName>
+              </ns0:getBankingStaticDataResult>
+           </ns0:getBankingStaticDataResponse>
+        </S:Body>
+     </S:Envelope>

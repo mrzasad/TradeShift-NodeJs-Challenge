@@ -1,0 +1,1207 @@
+<S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+        <env:Header>
+           <work:WorkContext xmlns:work="http://oracle.com/weblogic/soap/workarea/">rO0ABXdqAB93ZWJsb2dpYy5hcHAuS0ZIQmFua2luZ0J1c2luZXNzAAAA1gAAACN3ZWJsb2dpYy53b3JrYXJlYS5TdHJpbmdXb3JrQ29udGV4dAAaVjEuMTEuMS5NYXN0ZXIuMTBNYXJjaDIwMjAAAA==</work:WorkContext>
+        </env:Header>
+        <S:Body>
+           <ns0:getBankingStaticDataResponse xmlns:ns0="http://www.openuri.org/" xmlns:ns1="http://www.kfh.com/">
+              <ns0:getBankingStaticDataResult>
+                 <dataTypeDetailList>
+                    <dataTypeDetail>
+                       <dataNameAr>أروبا</dataNameAr>
+                       <dataNameEn>Aruba</dataNameEn>
+                       <dataTypeID>ABW</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>أفغانستان</dataNameAr>
+                       <dataNameEn>Afghanistan</dataNameEn>
+                       <dataTypeID>AFG</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>أنغولا</dataNameAr>
+                       <dataNameEn>Angola</dataNameEn>
+                       <dataTypeID>AGO</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>أنغيلا</dataNameAr>
+                       <dataNameEn>Anguilla</dataNameEn>
+                       <dataTypeID>AIA</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>ألبانيا</dataNameAr>
+                       <dataNameEn>Albania</dataNameEn>
+                       <dataTypeID>ALB</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>أندورا</dataNameAr>
+                       <dataNameEn>Andorra</dataNameEn>
+                       <dataTypeID>AND</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>أنتيل الهولنديه</dataNameAr>
+                       <dataNameEn>Netherlands Antille</dataNameEn>
+                       <dataTypeID>ANT</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الإمارات العربية المتحدة</dataNameAr>
+                       <dataNameEn>United Arab Emirates</dataNameEn>
+                       <dataTypeID>ARE</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الأرجنتين</dataNameAr>
+                       <dataNameEn>Argentina</dataNameEn>
+                       <dataTypeID>ARG</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>أرمينيا</dataNameAr>
+                       <dataNameEn>Armenia</dataNameEn>
+                       <dataTypeID>ARM</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>ساموا الأمريكية</dataNameAr>
+                       <dataNameEn>American Samoa</dataNameEn>
+                       <dataTypeID>ASM</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>القارة القطبية الجنوبية</dataNameAr>
+                       <dataNameEn>Antarctica</dataNameEn>
+                       <dataTypeID>ATA</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الأراضي الفرنسية الجنوبية</dataNameAr>
+                       <dataNameEn>French Southern Territory</dataNameEn>
+                       <dataTypeID>ATF</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>أنتيغوا وبربودا</dataNameAr>
+                       <dataNameEn>Antigua And Barbuda</dataNameEn>
+                       <dataTypeID>ATG</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>أستراليا</dataNameAr>
+                       <dataNameEn>Australia</dataNameEn>
+                       <dataTypeID>AUS</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>النمسا</dataNameAr>
+                       <dataNameEn>Austria</dataNameEn>
+                       <dataTypeID>AUT</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>أذربيجان</dataNameAr>
+                       <dataNameEn>Azerbaijan</dataNameEn>
+                       <dataTypeID>AZE</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>بوروندي</dataNameAr>
+                       <dataNameEn>Burundi</dataNameEn>
+                       <dataTypeID>BDI</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>بلجيكا</dataNameAr>
+                       <dataNameEn>Belgium</dataNameEn>
+                       <dataTypeID>BEL</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>بنين</dataNameAr>
+                       <dataNameEn>Benin</dataNameEn>
+                       <dataTypeID>BEN</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>بوركينا فاسو</dataNameAr>
+                       <dataNameEn>Burkina Faso</dataNameEn>
+                       <dataTypeID>BFA</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>بنغلاديش</dataNameAr>
+                       <dataNameEn>Bangladesh</dataNameEn>
+                       <dataTypeID>BGD</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>بلغاريا</dataNameAr>
+                       <dataNameEn>Bulgaria</dataNameEn>
+                       <dataTypeID>BGR</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>البحرين</dataNameAr>
+                       <dataNameEn>Bahrain</dataNameEn>
+                       <dataTypeID>BHR</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جزر البهاما</dataNameAr>
+                       <dataNameEn>Bahamas</dataNameEn>
+                       <dataTypeID>BHS</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>البوسنة والهرسك</dataNameAr>
+                       <dataNameEn>Bosnia and Herzegovina</dataNameEn>
+                       <dataTypeID>BIH</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>روسيا البيضاء</dataNameAr>
+                       <dataNameEn>Belarus</dataNameEn>
+                       <dataTypeID>BLR</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>بليز</dataNameAr>
+                       <dataNameEn>Belize</dataNameEn>
+                       <dataTypeID>BLZ</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>برمودا</dataNameAr>
+                       <dataNameEn>Bermuda</dataNameEn>
+                       <dataTypeID>BMU</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>بوليفيا</dataNameAr>
+                       <dataNameEn>Bolivia</dataNameEn>
+                       <dataTypeID>BOL</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>البرازيل</dataNameAr>
+                       <dataNameEn>Brazil</dataNameEn>
+                       <dataTypeID>BRA</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>بربادوس</dataNameAr>
+                       <dataNameEn>Barbados</dataNameEn>
+                       <dataTypeID>BRB</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>بروناي</dataNameAr>
+                       <dataNameEn>Brunei</dataNameEn>
+                       <dataTypeID>BRN</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>بوتان</dataNameAr>
+                       <dataNameEn>Bhutan</dataNameEn>
+                       <dataTypeID>BTN</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جزيرة بوفيه</dataNameAr>
+                       <dataNameEn>Bouvet Island</dataNameEn>
+                       <dataTypeID>BVT</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>بوتسوانا</dataNameAr>
+                       <dataNameEn>Botswana</dataNameEn>
+                       <dataTypeID>BWA</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جمهورية أفريقيا الوسطى</dataNameAr>
+                       <dataNameEn>Central African Republic</dataNameEn>
+                       <dataTypeID>CAF</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>كندا</dataNameAr>
+                       <dataNameEn>Canada</dataNameEn>
+                       <dataTypeID>CAN</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>كوكوس (كيلينغ) جزر</dataNameAr>
+                       <dataNameEn>Cocos (Keeling) Islands</dataNameEn>
+                       <dataTypeID>CCK</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>سويسرا</dataNameAr>
+                       <dataNameEn>Switzerland</dataNameEn>
+                       <dataTypeID>CHE</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>تشيلي</dataNameAr>
+                       <dataNameEn>Chile</dataNameEn>
+                       <dataTypeID>CHL</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الصين</dataNameAr>
+                       <dataNameEn>China</dataNameEn>
+                       <dataTypeID>CHN</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>كوت ديفوار</dataNameAr>
+                       <dataNameEn>Cote D'Ivoire</dataNameEn>
+                       <dataTypeID>CIV</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الكاميرون</dataNameAr>
+                       <dataNameEn>Cameroon</dataNameEn>
+                       <dataTypeID>CMR</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الكونغو</dataNameAr>
+                       <dataNameEn>Congo</dataNameEn>
+                       <dataTypeID>COG</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جزر كوك</dataNameAr>
+                       <dataNameEn>Cook Islands</dataNameEn>
+                       <dataTypeID>COK</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>كولومبيا</dataNameAr>
+                       <dataNameEn>Colombia</dataNameEn>
+                       <dataTypeID>COL</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جزر القمر</dataNameAr>
+                       <dataNameEn>Comoros</dataNameEn>
+                       <dataTypeID>COM</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الرأس الأخضر</dataNameAr>
+                       <dataNameEn>Cape Verde</dataNameEn>
+                       <dataTypeID>CPV</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>كوستاريكا</dataNameAr>
+                       <dataNameEn>Costa Rica</dataNameEn>
+                       <dataTypeID>CRI</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>كوبا</dataNameAr>
+                       <dataNameEn>Cuba</dataNameEn>
+                       <dataTypeID>CUB</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جزيرة كريسماس</dataNameAr>
+                       <dataNameEn>Christmas Island</dataNameEn>
+                       <dataTypeID>CXR</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جزر كايمان</dataNameAr>
+                       <dataNameEn>Cayman Islands</dataNameEn>
+                       <dataTypeID>CYM</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>قبرص</dataNameAr>
+                       <dataNameEn>Cyprus</dataNameEn>
+                       <dataTypeID>CYP</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جمهورية التشيك</dataNameAr>
+                       <dataNameEn>Czech Republic</dataNameEn>
+                       <dataTypeID>CZE</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>ألمانيا</dataNameAr>
+                       <dataNameEn>Germany</dataNameEn>
+                       <dataTypeID>DEU</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جيبوتي</dataNameAr>
+                       <dataNameEn>Djibouti</dataNameEn>
+                       <dataTypeID>DJI</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>دومينيكا</dataNameAr>
+                       <dataNameEn>Dominica</dataNameEn>
+                       <dataTypeID>DMA</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الدنمارك</dataNameAr>
+                       <dataNameEn>Denmark</dataNameEn>
+                       <dataTypeID>DNK</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جمهورية الدومينيكان</dataNameAr>
+                       <dataNameEn>Dominican Republic</dataNameEn>
+                       <dataTypeID>DOM</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الجزائر</dataNameAr>
+                       <dataNameEn>Algeria</dataNameEn>
+                       <dataTypeID>DZA</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الاكوادور</dataNameAr>
+                       <dataNameEn>Ecuador</dataNameEn>
+                       <dataTypeID>ECU</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>مصر</dataNameAr>
+                       <dataNameEn>Egypt</dataNameEn>
+                       <dataTypeID>EGY</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>إريتريا</dataNameAr>
+                       <dataNameEn>Eritrea</dataNameEn>
+                       <dataTypeID>ERI</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الصحراء الغربية</dataNameAr>
+                       <dataNameEn>Western Sahara</dataNameEn>
+                       <dataTypeID>ESH</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>إسبانيا</dataNameAr>
+                       <dataNameEn>Spain</dataNameEn>
+                       <dataTypeID>ESP</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>استونيا</dataNameAr>
+                       <dataNameEn>Estonia</dataNameEn>
+                       <dataTypeID>EST</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>أثيوبيا</dataNameAr>
+                       <dataNameEn>Ethiopia</dataNameEn>
+                       <dataTypeID>ETH</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>فنلندا</dataNameAr>
+                       <dataNameEn>Finland</dataNameEn>
+                       <dataTypeID>FIN</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>فيجي</dataNameAr>
+                       <dataNameEn>Fiji</dataNameEn>
+                       <dataTypeID>FJI</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جزر فوكلاند</dataNameAr>
+                       <dataNameEn>Falkland Islands</dataNameEn>
+                       <dataTypeID>FLK</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>فرنسا</dataNameAr>
+                       <dataNameEn>France</dataNameEn>
+                       <dataTypeID>FRA</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جزر فارو</dataNameAr>
+                       <dataNameEn>Faroe Islands</dataNameEn>
+                       <dataTypeID>FRO</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>ميكرونيزيا</dataNameAr>
+                       <dataNameEn>Micronesia</dataNameEn>
+                       <dataTypeID>FSM</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>فرنسا، متروبوليتان</dataNameAr>
+                       <dataNameEn>France , Metropolitan</dataNameEn>
+                       <dataTypeID>FXX</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الغابون</dataNameAr>
+                       <dataNameEn>Gabon</dataNameEn>
+                       <dataTypeID>GAB</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>المملكة المتحدة</dataNameAr>
+                       <dataNameEn>United Kingdom</dataNameEn>
+                       <dataTypeID>GBR</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جورجيا</dataNameAr>
+                       <dataNameEn>Georgia</dataNameEn>
+                       <dataTypeID>GEO</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>غانا</dataNameAr>
+                       <dataNameEn>Ghana</dataNameEn>
+                       <dataTypeID>GHA</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جبل طارق</dataNameAr>
+                       <dataNameEn>Gibraltar</dataNameEn>
+                       <dataTypeID>GIB</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>غينيا</dataNameAr>
+                       <dataNameEn>Guinea</dataNameEn>
+                       <dataTypeID>GIN</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>غوادلوب</dataNameAr>
+                       <dataNameEn>Guadeloupe</dataNameEn>
+                       <dataTypeID>GLP</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>غامبيا</dataNameAr>
+                       <dataNameEn>Gambia</dataNameEn>
+                       <dataTypeID>GMB</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>غينيا بيساو</dataNameAr>
+                       <dataNameEn>Guinea-Bissau</dataNameEn>
+                       <dataTypeID>GNB</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>غينيا الاستوائية</dataNameAr>
+                       <dataNameEn>Equatorial Guinea</dataNameEn>
+                       <dataTypeID>GNQ</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>يونان</dataNameAr>
+                       <dataNameEn>Greece</dataNameEn>
+                       <dataTypeID>GRC</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>غرينادا</dataNameAr>
+                       <dataNameEn>Grenada</dataNameEn>
+                       <dataTypeID>GRD</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جرينلاند</dataNameAr>
+                       <dataNameEn>Greenland</dataNameEn>
+                       <dataTypeID>GRL</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>غواتيمالا</dataNameAr>
+                       <dataNameEn>Guatemala</dataNameEn>
+                       <dataTypeID>GTM</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جويانا الفرنسية</dataNameAr>
+                       <dataNameEn>French Guiana</dataNameEn>
+                       <dataTypeID>GUF</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>غوام</dataNameAr>
+                       <dataNameEn>Guam</dataNameEn>
+                       <dataTypeID>GUM</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>غيانا</dataNameAr>
+                       <dataNameEn>Guyana</dataNameEn>
+                       <dataTypeID>GUY</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>هونغ كونغ</dataNameAr>
+                       <dataNameEn>Hong Kong</dataNameEn>
+                       <dataTypeID>HKG</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جزر ماكدونالد</dataNameAr>
+                       <dataNameEn>Heard &amp; Mc Donald Islands</dataNameEn>
+                       <dataTypeID>HMD</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>هندوراس</dataNameAr>
+                       <dataNameEn>Honduras</dataNameEn>
+                       <dataTypeID>HND</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>كرواتيا</dataNameAr>
+                       <dataNameEn>Croatia</dataNameEn>
+                       <dataTypeID>HRV</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>هايتي</dataNameAr>
+                       <dataNameEn>Haiti</dataNameEn>
+                       <dataTypeID>HTI</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>هنغاريا</dataNameAr>
+                       <dataNameEn>Hungary</dataNameEn>
+                       <dataTypeID>HUN</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>أندونيسيا</dataNameAr>
+                       <dataNameEn>Indonesia</dataNameEn>
+                       <dataTypeID>IDN</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الهند</dataNameAr>
+                       <dataNameEn>India</dataNameEn>
+                       <dataTypeID>IND</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>المحيط الهندي البريطاني</dataNameAr>
+                       <dataNameEn>British Indian Ocean</dataNameEn>
+                       <dataTypeID>IOT</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>أيرلندا</dataNameAr>
+                       <dataNameEn>Ireland</dataNameEn>
+                       <dataTypeID>IRL</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>ايران</dataNameAr>
+                       <dataNameEn>Iran</dataNameEn>
+                       <dataTypeID>IRN</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>العراق</dataNameAr>
+                       <dataNameEn>Iraq</dataNameEn>
+                       <dataTypeID>IRQ</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>أيسلندا</dataNameAr>
+                       <dataNameEn>Iceland</dataNameEn>
+                       <dataTypeID>ISL</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>إيطاليا</dataNameAr>
+                       <dataNameEn>Italy</dataNameEn>
+                       <dataTypeID>ITA</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جامايكا</dataNameAr>
+                       <dataNameEn>Jamaica</dataNameEn>
+                       <dataTypeID>JAM</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الأردن</dataNameAr>
+                       <dataNameEn>Jordan</dataNameEn>
+                       <dataTypeID>JOR</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>اليابان</dataNameAr>
+                       <dataNameEn>Japan</dataNameEn>
+                       <dataTypeID>JPN</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>كازاخستان</dataNameAr>
+                       <dataNameEn>Kazakhstan</dataNameEn>
+                       <dataTypeID>KAZ</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>كينيا</dataNameAr>
+                       <dataNameEn>Kenya</dataNameEn>
+                       <dataTypeID>KEN</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>قرغيزستان</dataNameAr>
+                       <dataNameEn>Kyrgyzstan</dataNameEn>
+                       <dataTypeID>KGZ</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>كمبوديا</dataNameAr>
+                       <dataNameEn>Cambodia</dataNameEn>
+                       <dataTypeID>KHM</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>كيريباتي</dataNameAr>
+                       <dataNameEn>Kiribati</dataNameEn>
+                       <dataTypeID>KIR</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>سانت كيتس ونيفيس</dataNameAr>
+                       <dataNameEn>Saint Kitts And Nevis</dataNameEn>
+                       <dataTypeID>KNA</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>كوريا الجنوبية</dataNameAr>
+                       <dataNameEn>Korea, South</dataNameEn>
+                       <dataTypeID>KOR</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الكويت</dataNameAr>
+                       <dataNameEn>Kuwait</dataNameEn>
+                       <dataTypeID>KWT</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>لاوس</dataNameAr>
+                       <dataNameEn>Laos</dataNameEn>
+                       <dataTypeID>LAO</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>لبنان</dataNameAr>
+                       <dataNameEn>Lebanon</dataNameEn>
+                       <dataTypeID>LBN</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>ليبيريا</dataNameAr>
+                       <dataNameEn>Liberia</dataNameEn>
+                       <dataTypeID>LBR</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>ليبيا</dataNameAr>
+                       <dataNameEn>Libya</dataNameEn>
+                       <dataTypeID>LBY</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>سانت لوسيا</dataNameAr>
+                       <dataNameEn>Saint Lucia</dataNameEn>
+                       <dataTypeID>LCA</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>ليختنشتاين</dataNameAr>
+                       <dataNameEn>Liechtenstein</dataNameEn>
+                       <dataTypeID>LIE</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>سيريلانكا</dataNameAr>
+                       <dataNameEn>Srilanka</dataNameEn>
+                       <dataTypeID>LKA</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>ليسوتو</dataNameAr>
+                       <dataNameEn>Lesotho</dataNameEn>
+                       <dataTypeID>LSO</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>ليتوانيا</dataNameAr>
+                       <dataNameEn>Lithuania</dataNameEn>
+                       <dataTypeID>LTU</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>لوكسمبورغ</dataNameAr>
+                       <dataNameEn>Luxembourg</dataNameEn>
+                       <dataTypeID>LUX</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>لاتفيا</dataNameAr>
+                       <dataNameEn>Latvia</dataNameEn>
+                       <dataTypeID>LVA</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>ماكاو</dataNameAr>
+                       <dataNameEn>Macau</dataNameEn>
+                       <dataTypeID>MAC</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>المغرب</dataNameAr>
+                       <dataNameEn>Morocco</dataNameEn>
+                       <dataTypeID>MAR</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>موناكو</dataNameAr>
+                       <dataNameEn>Monaco</dataNameEn>
+                       <dataTypeID>MCO</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>مولدوفا</dataNameAr>
+                       <dataNameEn>Moldova</dataNameEn>
+                       <dataTypeID>MDA</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>مدغشقر</dataNameAr>
+                       <dataNameEn>Madagascar</dataNameEn>
+                       <dataTypeID>MDG</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جزر المالديف</dataNameAr>
+                       <dataNameEn>Maldives</dataNameEn>
+                       <dataTypeID>MDV</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameEn>Montenegro</dataNameEn>
+                       <dataTypeID>ME</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>المكسيك</dataNameAr>
+                       <dataNameEn>Mexico</dataNameEn>
+                       <dataTypeID>MEX</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جزر مارشال</dataNameAr>
+                       <dataNameEn>Marshall Islands</dataNameEn>
+                       <dataTypeID>MHL</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>مقدونيا</dataNameAr>
+                       <dataNameEn>Macedonia</dataNameEn>
+                       <dataTypeID>MKD</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>مالي</dataNameAr>
+                       <dataNameEn>Mali</dataNameEn>
+                       <dataTypeID>MLI</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>مالطا</dataNameAr>
+                       <dataNameEn>Malta</dataNameEn>
+                       <dataTypeID>MLT</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>ميانمار</dataNameAr>
+                       <dataNameEn>Myanmar</dataNameEn>
+                       <dataTypeID>MMR</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>منغوليا</dataNameAr>
+                       <dataNameEn>Mongolia</dataNameEn>
+                       <dataTypeID>MNG</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جزر ماريانا الشمالية</dataNameAr>
+                       <dataNameEn>Northern Mariana Islands</dataNameEn>
+                       <dataTypeID>MNP</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>موزمبيق</dataNameAr>
+                       <dataNameEn>Mozambique</dataNameEn>
+                       <dataTypeID>MOZ</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>موريتانيا</dataNameAr>
+                       <dataNameEn>Mauritania</dataNameEn>
+                       <dataTypeID>MRT</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>مونتسيرات</dataNameAr>
+                       <dataNameEn>Montserrat</dataNameEn>
+                       <dataTypeID>MSR</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>مارتينيك</dataNameAr>
+                       <dataNameEn>Martinique</dataNameEn>
+                       <dataTypeID>MTQ</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>موريشيوس</dataNameAr>
+                       <dataNameEn>Mauritus</dataNameEn>
+                       <dataTypeID>MUS</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>ملاوي</dataNameAr>
+                       <dataNameEn>Malawi</dataNameEn>
+                       <dataTypeID>MWI</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>ماليزيا</dataNameAr>
+                       <dataNameEn>Malaysia</dataNameEn>
+                       <dataTypeID>MYS</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>مايوت</dataNameAr>
+                       <dataNameEn>Mayotte</dataNameEn>
+                       <dataTypeID>MYT</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>ناميبيا</dataNameAr>
+                       <dataNameEn>Namibia</dataNameEn>
+                       <dataTypeID>NAM</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>كاليدونيا الجديدة</dataNameAr>
+                       <dataNameEn>New Caledonia</dataNameEn>
+                       <dataTypeID>NCL</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>النيجر</dataNameAr>
+                       <dataNameEn>Niger</dataNameEn>
+                       <dataTypeID>NER</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جزيرة نورفولك</dataNameAr>
+                       <dataNameEn>Norfolk Island</dataNameEn>
+                       <dataTypeID>NFK</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>نيجيريا</dataNameAr>
+                       <dataNameEn>Nigeria</dataNameEn>
+                       <dataTypeID>NGA</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>نيكاراغوا</dataNameAr>
+                       <dataNameEn>Nicaragua</dataNameEn>
+                       <dataTypeID>NIC</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>نيوي</dataNameAr>
+                       <dataNameEn>Niue</dataNameEn>
+                       <dataTypeID>NIU</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>هولندا</dataNameAr>
+                       <dataNameEn>Netherlands</dataNameEn>
+                       <dataTypeID>NLD</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>النرويج</dataNameAr>
+                       <dataNameEn>Norway</dataNameEn>
+                       <dataTypeID>NOR</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>نيبال</dataNameAr>
+                       <dataNameEn>Nepal</dataNameEn>
+                       <dataTypeID>NPL</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>ناورو</dataNameAr>
+                       <dataNameEn>Nauru</dataNameEn>
+                       <dataTypeID>NRU</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>نيوزيلندا</dataNameAr>
+                       <dataNameEn>New Zealand</dataNameEn>
+                       <dataTypeID>NZL</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>عمان</dataNameAr>
+                       <dataNameEn>Oman</dataNameEn>
+                       <dataTypeID>OMN</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>باكستان</dataNameAr>
+                       <dataNameEn>Pakistan</dataNameEn>
+                       <dataTypeID>PAK</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>بناما</dataNameAr>
+                       <dataNameEn>Panama</dataNameEn>
+                       <dataTypeID>PAN</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>بيتكيرن</dataNameAr>
+                       <dataNameEn>Pitcairn</dataNameEn>
+                       <dataTypeID>PCN</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>بيرو</dataNameAr>
+                       <dataNameEn>Peru</dataNameEn>
+                       <dataTypeID>PER</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الفلبين</dataNameAr>
+                       <dataNameEn>Philippine</dataNameEn>
+                       <dataTypeID>PHL</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>بالاو</dataNameAr>
+                       <dataNameEn>Palau</dataNameEn>
+                       <dataTypeID>PLW</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>بابوا غينيا الجديدة</dataNameAr>
+                       <dataNameEn>Papua New Guinea</dataNameEn>
+                       <dataTypeID>PNG</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>بولندا</dataNameAr>
+                       <dataNameEn>Poland</dataNameEn>
+                       <dataTypeID>POL</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>بورتوريكو</dataNameAr>
+                       <dataNameEn>Puerto Rico</dataNameEn>
+                       <dataTypeID>PRI</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>كوريا، الشمالية</dataNameAr>
+                       <dataNameEn>Korea, North</dataNameEn>
+                       <dataTypeID>PRK</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>البرتغال</dataNameAr>
+                       <dataNameEn>Portugal</dataNameEn>
+                       <dataTypeID>PRT</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>باراغواي</dataNameAr>
+                       <dataNameEn>Paraguay</dataNameEn>
+                       <dataTypeID>PRY</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>فلسطين</dataNameAr>
+                       <dataNameEn>Palestine</dataNameEn>
+                       <dataTypeID>PST</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>بولينيزيا الفرنسية</dataNameAr>
+                       <dataNameEn>French Polynesia</dataNameEn>
+                       <dataTypeID>PYE</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>قطر</dataNameAr>
+                       <dataNameEn>Qatar</dataNameEn>
+                       <dataTypeID>QAT</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>ريونيون</dataNameAr>
+                       <dataNameEn>Reunion</dataNameEn>
+                       <dataTypeID>REU</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>رومانيا</dataNameAr>
+                       <dataNameEn>Romania</dataNameEn>
+                       <dataTypeID>ROM</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameEn>Serbia</dataNameEn>
+                       <dataTypeID>RS</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>روسيا</dataNameAr>
+                       <dataNameEn>Russia</dataNameEn>
+                       <dataTypeID>RUS</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>رواندا</dataNameAr>
+                       <dataNameEn>Rwanda</dataNameEn>
+                       <dataTypeID>RWA</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>السعودية</dataNameAr>
+                       <dataNameEn>Saudi Arabia</dataNameEn>
+                       <dataTypeID>SAU</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>السودان</dataNameAr>
+                       <dataNameEn>Sudan</dataNameEn>
+                       <dataTypeID>SDN</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>السنغال</dataNameAr>
+                       <dataNameEn>Senegal</dataNameEn>
+                       <dataTypeID>SEN</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>سنغافورة</dataNameAr>
+                       <dataNameEn>Singapore</dataNameEn>
+                       <dataTypeID>SGP</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جنوب جورجيا وجنوب امام فريقي</dataNameAr>
+                       <dataNameEn>South Georgia&amp;South Sandw</dataNameEn>
+                       <dataTypeID>SGS</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>سانت هيلينا</dataNameAr>
+                       <dataNameEn>Saint Helena</dataNameEn>
+                       <dataTypeID>SHN</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جزر سليمان</dataNameAr>
+                       <dataNameEn>Solomon Islands</dataNameEn>
+                       <dataTypeID>SLB</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>سيراليون</dataNameAr>
+                       <dataNameEn>Sierra Leone</dataNameEn>
+                       <dataTypeID>SLE</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>السلفادور</dataNameAr>
+                       <dataNameEn>El Salvador</dataNameEn>
+                       <dataTypeID>SLV</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>سان مارينو</dataNameAr>
+                       <dataNameEn>San Marino</dataNameEn>
+                       <dataTypeID>SMR</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الصومال</dataNameAr>
+                       <dataNameEn>Somalia</dataNameEn>
+                       <dataTypeID>SOM</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>سان بيار وميكلون</dataNameAr>
+                       <dataNameEn>Saint Pierre and Miquelon</dataNameEn>
+                       <dataTypeID>SPM</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>سان تومي وبرينسيبي</dataNameAr>
+                       <dataNameEn>Sao Tome And Principe</dataNameEn>
+                       <dataTypeID>STP</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>سورينام</dataNameAr>
+                       <dataNameEn>Suriname</dataNameEn>
+                       <dataTypeID>SUR</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>سلوفاكيا</dataNameAr>
+                       <dataNameEn>Slovakia</dataNameEn>
+                       <dataTypeID>SVK</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>سلوفينيا</dataNameAr>
+                       <dataNameEn>Slovenia</dataNameEn>
+                       <dataTypeID>SVN</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>السويد</dataNameAr>
+                       <dataNameEn>Sweden</dataNameEn>
+                       <dataTypeID>SWE</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>سوازيلاند</dataNameAr>
+                       <dataNameEn>Swaziland</dataNameEn>
+                       <dataTypeID>SWZ</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>سيشيل</dataNameAr>
+                       <dataNameEn>Seychelles</dataNameEn>
+                       <dataTypeID>SYC</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>سوريا</dataNameAr>
+                       <dataNameEn>Syria</dataNameEn>
+                       <dataTypeID>SYR</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جزر تركس وكايكوس</dataNameAr>
+                       <dataNameEn>Turks And Caicos Islands</dataNameEn>
+                       <dataTypeID>TCA</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>تشاد</dataNameAr>
+                       <dataNameEn>Chad</dataNameEn>
+                       <dataTypeID>TCD</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>توغو</dataNameAr>
+                       <dataNameEn>Togo</dataNameEn>
+                       <dataTypeID>TGO</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>تايلاند</dataNameAr>
+                       <dataNameEn>Thailand</dataNameEn>
+                       <dataTypeID>THA</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>طاجيكستان</dataNameAr>
+                       <dataNameEn>Tajikistan</dataNameEn>
+                       <dataTypeID>TJK</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>توكيلاو</dataNameAr>
+                       <dataNameEn>Tokelau</dataNameEn>
+                       <dataTypeID>TKL</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>تركمانستان</dataNameAr>
+                       <dataNameEn>Turkmenistan</dataNameEn>
+                       <dataTypeID>TKM</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>تيمور الشرقية</dataNameAr>
+                       <dataNameEn>East Timor</dataNameEn>
+                       <dataTypeID>TMP</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>تونغا</dataNameAr>
+                       <dataNameEn>Tonga</dataNameEn>
+                       <dataTypeID>TON</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>ترينيداد وتوباغو</dataNameAr>
+                       <dataNameEn>Trinidad And Tobago</dataNameEn>
+                       <dataTypeID>TTO</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>تونس</dataNameAr>
+                       <dataNameEn>Tunisia</dataNameEn>
+                       <dataTypeID>TUN</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>تركيا</dataNameAr>
+                       <dataNameEn>Turkey</dataNameEn>
+                       <dataTypeID>TUR</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>توفالو</dataNameAr>
+                       <dataNameEn>Tuvalu</dataNameEn>
+                       <dataTypeID>TUV</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>تايوان</dataNameAr>
+                       <dataNameEn>Taiwan</dataNameEn>
+                       <dataTypeID>TWN</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>تنزانيا</dataNameAr>
+                       <dataNameEn>Tanzania</dataNameEn>
+                       <dataTypeID>TZA</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>أوغندا</dataNameAr>
+                       <dataNameEn>Uganda</dataNameEn>
+                       <dataTypeID>UGA</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>أوكرانيا</dataNameAr>
+                       <dataNameEn>Ukraine</dataNameEn>
+                       <dataTypeID>UKR</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الجزر الأمريكية الصغيرة</dataNameAr>
+                       <dataNameEn>United States Min.Outlyin</dataNameEn>
+                       <dataTypeID>UMI</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>أوروغواي</dataNameAr>
+                       <dataNameEn>Uruguay</dataNameEn>
+                       <dataTypeID>URY</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الولايات المتحدة</dataNameAr>
+                       <dataNameEn>United States</dataNameEn>
+                       <dataTypeID>USA</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>أوزبكستان</dataNameAr>
+                       <dataNameEn>Uzbekistan</dataNameEn>
+                       <dataTypeID>UZB</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>الفاتيكان</dataNameAr>
+                       <dataNameEn>Vatican City State</dataNameEn>
+                       <dataTypeID>VAT</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>سانت فنسنت وجزر غرينادين</dataNameAr>
+                       <dataNameEn>St.Vincent&amp;The Grenadines</dataNameEn>
+                       <dataTypeID>VCT</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>فنزويلا</dataNameAr>
+                       <dataNameEn>Venezuela</dataNameEn>
+                       <dataTypeID>VEN</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جزر العذراء البريطانية</dataNameAr>
+                       <dataNameEn>Virgin Islands (Britsh)</dataNameEn>
+                       <dataTypeID>VGB</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جزر فيرجن الأمريكية</dataNameAr>
+                       <dataNameEn>Virgin Islands (U.S.)</dataNameEn>
+                       <dataTypeID>VIR</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>فيتنام</dataNameAr>
+                       <dataNameEn>Vietnam</dataNameEn>
+                       <dataTypeID>VNM</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>فانواتو</dataNameAr>
+                       <dataNameEn>Vanuatu</dataNameEn>
+                       <dataTypeID>VUT</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>واليس وفوتونا</dataNameAr>
+                       <dataNameEn>Wallis And Futuna Islands</dataNameEn>
+                       <dataTypeID>WLF</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>ساموا</dataNameAr>
+                       <dataNameEn>Samoa</dataNameEn>
+                       <dataTypeID>WSM</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>اليمن</dataNameAr>
+                       <dataNameEn>Yemen</dataNameEn>
+                       <dataTypeID>YEM</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>جنوب أفريقيا</dataNameAr>
+                       <dataNameEn>South Africa</dataNameEn>
+                       <dataTypeID>ZAF</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>زائير</dataNameAr>
+                       <dataNameEn>Zaire</dataNameEn>
+                       <dataTypeID>ZAR</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>زامبيا</dataNameAr>
+                       <dataNameEn>Zambia</dataNameEn>
+                       <dataTypeID>ZMB</dataTypeID>
+                    </dataTypeDetail>
+                    <dataTypeDetail>
+                       <dataNameAr>زيمبابوي</dataNameAr>
+                       <dataNameEn>Zimbabwe</dataNameEn>
+                       <dataTypeID>ZWE</dataTypeID>
+                    </dataTypeDetail>
+                 </dataTypeDetailList>
+                 <dataTypeName>countries</dataTypeName>
+              </ns0:getBankingStaticDataResult>
+           </ns0:getBankingStaticDataResponse>
+        </S:Body>
+     </S:Envelope>

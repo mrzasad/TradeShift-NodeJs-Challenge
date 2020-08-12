@@ -1,0 +1,2068 @@
+{
+  "expected_transaction_types": [
+    {
+      "id": 1,
+      "en": "Encashment",
+      "ar": "تعاملات نقدية"
+    },
+    {
+      "id": 2,
+      "en": "Cheques",
+      "ar": "شيكات"
+    },
+    {
+      "id": 3,
+      "en": "Local Transfer",
+      "ar": "تحويلات محلية"
+    },
+    {
+      "id": 4,
+      "en": "International Transfer",
+      "ar": "تحويلات للخارج"
+    },
+    {
+      "id": 5,
+      "en": "All The Above",
+      "ar": "كل ما سبق"
+    }
+  ],
+  "expected_monthly_transaction_amounts": [
+    {
+      "id": 1,
+      "en": "1-500",
+      "ar": "1-500"
+    },
+    {
+      "id": 2,
+      "en": "501-1500",
+      "ar": "501-1500"
+    },
+    {
+      "id": 3,
+      "en": "1501-5000",
+      "ar": "1501-5000"
+    },
+    {
+      "id": 4,
+      "en": "5001-10000",
+      "ar": "5001-10000"
+    },
+    {
+      "id": 5,
+      "en": "10001-50000",
+      "ar": "10001-50000"
+    },
+    {
+      "id": 6,
+      "en": "50001- 100000",
+      "ar": "50001- 100000"
+    },
+    {
+      "id": 7,
+      "en": "More Than 100000",
+      "ar": "اكثر من 100000"
+    }
+  ],
+  "expected_monthly_transaction_counts": [
+    {
+      "id": 1,
+      "en": "1-100",
+      "ar": "1-100"
+    },
+    {
+      "id": 2,
+      "en": "101-200",
+      "ar": "101-200"
+    },
+    {
+      "id": 3,
+      "en": "201-500",
+      "ar": "201-500"
+    },
+    {
+      "id": 4,
+      "en": "More than 500",
+      "ar": "اكثر من 500"
+    }
+  ],
+  "other_banks": [
+    {
+      "id": 1,
+      "en": "Yes",
+      "ar": "نعم"
+    },
+    {
+      "id": 2,
+      "en": "No",
+      "ar": "لا"
+    }
+  ],
+  "marital_statuses": [
+    {
+      "id": "1",
+      "en": "Unmarried",
+      "ar": "أعزب"
+    },
+    {
+      "id": "2",
+      "en": "Married",
+      "ar": "متزوج"
+    },
+    {
+      "id": "3",
+      "en": "Widowed",
+      "ar": "أرمل"
+    },
+    {
+      "id": "4",
+      "en": "Divorced",
+      "ar": "مطلق"
+    },
+    {
+      "id": "5",
+      "en": "Separated",
+      "ar": "منفصل"
+    }
+  ],
+  "political_or_diplomatic_relation": [
+    {
+      "id": "1",
+      "en": "Yes",
+      "ar": "نعم"
+    },
+    {
+      "id": "0",
+      "en": "No",
+      "ar": "لا"
+    }
+  ],
+  "political_or_diplomatic_person": [
+    {
+      "id": "1",
+      "en": "Yes",
+      "ar": "نعم"
+    },
+    {
+      "id": "0",
+      "en": "No",
+      "ar": "لا"
+    }
+  ],
+  "opening_reasons": [
+    {
+      "id": "37",
+      "en": "Shariah Operations",
+      "ar": "المعاملات الشرعية"
+    },
+    {
+      "id": "38",
+      "en": "Advertising Campaigns",
+      "ar": "الحملات الاعلانية"
+    },
+    {
+      "id": "40",
+      "en": "Products Profits",
+      "ar": "ارباح المنتجات"
+    },
+    {
+      "id": "41",
+      "en": "Geographical Location",
+      "ar": "الموقع الجغرافي"
+    },
+    {
+      "id": "42",
+      "en": "Friend Experience",
+      "ar": "خبرة صديق"
+    },
+    {
+      "id": "44",
+      "en": "Facilities",
+      "ar": "التسهيلات المعطاه"
+    },
+    {
+      "id": "49",
+      "en": "Variety of Products",
+      "ar": "تنوع المنتجات"
+    },
+    {
+      "id": "56",
+      "en": "Quality of Service",
+      "ar": "جودة الخدمة"
+    },
+    {
+      "id": "57",
+      "en": "Ladies independence",
+      "ar": "استقلالية السيدات"
+    },
+    {
+      "id": "66",
+      "en": "KFH Reason",
+      "ar": "سبب خاص ببيتك"
+    },
+    {
+      "id": "67",
+      "en": "Salary Transfer",
+      "ar": "تحويل راتب"
+    },
+    {
+      "id": "68",
+      "en": "Long Term Investment",
+      "ar": "استثمار طويل الامد"
+    }
+  ],
+  "wealth_amounts": [
+    {
+      "id": 1,
+      "en": "Less than 10,000",
+      "ar": "اقل من 10,000"
+    },
+    {
+      "id": 2,
+      "en": "Less than 100,000",
+      "ar": "اقل من 100,000"
+    },
+    {
+      "id": 3,
+      "en": "Less than 1,000,000",
+      "ar": "اقل من 1,000,000"
+    },
+    {
+      "id": 4,
+      "en": "Above 1,000,000",
+      "ar": "اكثر من 1,000,000"
+    }
+  ],
+  "average_incomes": [
+    {
+      "id": 1,
+      "en": "3,000",
+      "ar": "3,000"
+    },
+    {
+      "id": 2,
+      "en": "6,000",
+      "ar": "6,000"
+    },
+    {
+      "id": 3,
+      "en": "12,000",
+      "ar": "12,000"
+    },
+    {
+      "id": 4,
+      "en": "60,000",
+      "ar": "60,000"
+    },
+    {
+      "id": 5,
+      "en": "120,000",
+      "ar": "120,000"
+    },
+    {
+      "id": 6,
+      "en": "Above 120,000",
+      "ar": "اكثر من 120,000"
+    }
+  ],
+  "monthly_incomes": [
+    {
+      "id": 500,
+      "en": "500",
+      "ar": "500"
+    },
+    {
+      "id": 1000,
+      "en": "1000",
+      "ar": "1000"
+    },
+    {
+      "id": 2000,
+      "en": "2000",
+      "ar": "2000"
+    },
+    {
+      "id": 3000,
+      "en": "3000",
+      "ar": "3000"
+    },
+    {
+      "id": 4000,
+      "en": "4000",
+      "ar": "4000"
+    },
+    {
+      "id": 5000,
+      "en": "5000",
+      "ar": "5000"
+    },
+    {
+      "id": 6000,
+      "en": "6000",
+      "ar": "6000"
+    },
+    {
+      "id": 7000,
+      "en": "7000",
+      "ar": "7000"
+    },
+    {
+      "id": 10000,
+      "en": "Above 10,000",
+      "ar": "اكثر من 10,000"
+    }
+  ],
+  "regions": [
+    {
+      "id": "1",
+      "ar": "الصالحية",
+      "en": "Salehia",
+      "branch": "12",
+      "provinceId": "1"
+    },
+    {
+      "id": "2",
+      "ar": "غرناطه",
+      "en": "Qurnata",
+      "branch": "60",
+      "provinceId": "1"
+    },
+    {
+      "id": "3",
+      "ar": "الخالديه",
+      "en": "Khalidiya",
+      "branch": "20",
+      "provinceId": "1"
+    },
+    {
+      "id": "4",
+      "ar": "الدسمه",
+      "en": "Dasmah",
+      "branch": "29",
+      "provinceId": "1"
+    },
+    {
+      "id": "5",
+      "ar": "الدعيه",
+      "en": "Daiya",
+      "branch": "29",
+      "provinceId": "1"
+    },
+    {
+      "id": "6",
+      "ar": "بنيد القار",
+      "en": "Bneid Al - Gar",
+      "branch": "13",
+      "provinceId": "1"
+    },
+    {
+      "id": "7",
+      "ar": "دسمان",
+      "en": "Dasman",
+      "branch": "4",
+      "provinceId": "1"
+    },
+    {
+      "id": "8",
+      "ar": "الشرق",
+      "en": "Al Sharq",
+      "branch": "4",
+      "provinceId": "1"
+    },
+    {
+      "id": "9",
+      "ar": "الروضه",
+      "en": "Rawda",
+      "branch": "25",
+      "provinceId": "1"
+    },
+    {
+      "id": "10",
+      "ar": "الدوحه",
+      "en": "Doha",
+      "branch": "26",
+      "provinceId": "1"
+    },
+    {
+      "id": "11",
+      "ar": "الشاميه",
+      "en": "Shamiya",
+      "branch": "30",
+      "provinceId": "1"
+    },
+    {
+      "id": "12",
+      "ar": "الشويخ السكنية",
+      "en": "Shuwaikh Alsakaniya",
+      "branch": "22",
+      "provinceId": "1"
+    },
+    {
+      "id": "13",
+      "ar": "المرقاب",
+      "en": "Mirqab",
+      "branch": "1",
+      "provinceId": "1"
+    },
+    {
+      "id": "14",
+      "ar": "القبله",
+      "en": "Qibla",
+      "branch": "1",
+      "provinceId": "1"
+    },
+    {
+      "id": "15",
+      "ar": "الصليبخات",
+      "en": "Sulaibekhat",
+      "branch": "26",
+      "provinceId": "1"
+    },
+    {
+      "id": "16",
+      "ar": "ضاحيه عبدالله السالم",
+      "en": "Abdalla-Alsalim",
+      "branch": "19",
+      "provinceId": "1"
+    },
+    {
+      "id": "17",
+      "ar": "العديليه",
+      "en": "Idailiya",
+      "branch": "37",
+      "provinceId": "1"
+    },
+    {
+      "id": "18",
+      "ar": "الفيحاء",
+      "en": "Faiha",
+      "branch": "9",
+      "provinceId": "1"
+    },
+    {
+      "id": "19",
+      "ar": "القادسيه",
+      "en": "Qadisiya",
+      "branch": "29",
+      "provinceId": "1"
+    },
+    {
+      "id": "20",
+      "ar": "جيوان/المنطقة العسكرية",
+      "en": "G1 /Military Region",
+      "branch": "22",
+      "provinceId": "1"
+    },
+    {
+      "id": "21",
+      "ar": "المنطقه الصحيه",
+      "en": "Midical - Reg",
+      "branch": "22",
+      "provinceId": "1"
+    },
+    {
+      "id": "22",
+      "ar": "المنطقة الصناعية",
+      "en": "Industrial Zone",
+      "branch": "22",
+      "provinceId": "1"
+    },
+    {
+      "id": "23",
+      "ar": "كيفان",
+      "en": "Kifan",
+      "branch": "42",
+      "provinceId": "1"
+    },
+    {
+      "id": "24",
+      "ar": "المنصوريه",
+      "en": "Mansoriya",
+      "branch": "29",
+      "provinceId": "1"
+    },
+    {
+      "id": "25",
+      "ar": "النزهه",
+      "en": "Nuzha",
+      "branch": "19",
+      "provinceId": "1"
+    },
+    {
+      "id": "26",
+      "ar": "فيلكا",
+      "en": "Failaka",
+      "branch": "7",
+      "provinceId": "1"
+    },
+    {
+      "id": "27",
+      "ar": "خيطان",
+      "en": "Khaitan",
+      "branch": "17",
+      "provinceId": "3"
+    },
+    {
+      "id": "28",
+      "ar": "الاندلس",
+      "en": "Andalus",
+      "branch": "35",
+      "provinceId": "3"
+    },
+    {
+      "id": "29",
+      "ar": "الرقعي",
+      "en": "Reggae",
+      "branch": "35",
+      "provinceId": "3"
+    },
+    {
+      "id": "30",
+      "ar": "منطقة الري",
+      "en": "Alrai Zone",
+      "branch": "31",
+      "provinceId": "3"
+    },
+    {
+      "id": "31",
+      "ar": "الرابيه",
+      "en": "Rabiya",
+      "branch": "67",
+      "provinceId": "3"
+    },
+    {
+      "id": "32",
+      "ar": "جليب الشيوخ",
+      "en": "Jleeb Al - Shuyoukh",
+      "branch": "54",
+      "provinceId": "3"
+    },
+    {
+      "id": "33",
+      "ar": "صباح الناصر",
+      "en": "Sabah Alnasir",
+      "branch": "34",
+      "provinceId": "3"
+    },
+    {
+      "id": "34",
+      "ar": "الفردوس",
+      "en": "Fordus",
+      "branch": "35",
+      "provinceId": "3"
+    },
+    {
+      "id": "35",
+      "ar": "جنوب الرابية",
+      "en": "South Rabiya",
+      "branch": "67",
+      "provinceId": "3"
+    },
+    {
+      "id": "36",
+      "ar": "الزهراء",
+      "en": "Al-Zahraa",
+      "branch": "68",
+      "provinceId": "4"
+    },
+    {
+      "id": "37",
+      "ar": "السره",
+      "en": "Surra",
+      "branch": "27",
+      "provinceId": "1"
+    },
+    {
+      "id": "38",
+      "ar": "صبحان الصناعيه",
+      "en": "Sabhan Ind",
+      "branch": "15",
+      "provinceId": "6"
+    },
+    {
+      "id": "39",
+      "ar": "السلام",
+      "en": "Al-Salam",
+      "branch": "36",
+      "provinceId": "4"
+    },
+    {
+      "id": "40",
+      "ar": "الصديق",
+      "en": "Al-Siddeek",
+      "branch": "36",
+      "provinceId": "4"
+    },
+    {
+      "id": "41",
+      "ar": "حطين",
+      "en": "Hiteen",
+      "branch": "36",
+      "provinceId": "4"
+    },
+    {
+      "id": "42",
+      "ar": "المدائن",
+      "en": "Madain",
+      "branch": "1",
+      "provinceId": "4"
+    },
+    {
+      "id": "43",
+      "ar": "العارضيه",
+      "en": "Ardiya",
+      "branch": "14",
+      "provinceId": "3"
+    },
+    {
+      "id": "44",
+      "ar": "العمريه",
+      "en": "Omarya",
+      "branch": "6",
+      "provinceId": "3"
+    },
+    {
+      "id": "45",
+      "ar": "الفروانيه",
+      "en": "Farwaniya",
+      "branch": "6",
+      "provinceId": "3"
+    },
+    {
+      "id": "46",
+      "ar": "ضجيج الطائرات",
+      "en": "Al Dajeej",
+      "branch": "6",
+      "provinceId": "3"
+    },
+    {
+      "id": "47",
+      "ar": "قرطبه",
+      "en": "Qurtuba",
+      "branch": "27",
+      "provinceId": "1"
+    },
+    {
+      "id": "48",
+      "ar": "اليرموك",
+      "en": "Yarmouk",
+      "branch": "47",
+      "provinceId": "1"
+    },
+    {
+      "id": "49",
+      "ar": "الجهراء",
+      "en": "Jahra",
+      "branch": "2",
+      "provinceId": "2"
+    },
+    {
+      "id": "50",
+      "ar": "الصليبيةالصناعية (1)",
+      "en": "Sulaibiya - Ind (1)",
+      "branch": "58",
+      "provinceId": "2"
+    },
+    {
+      "id": "51",
+      "ar": "الصليبيةالصناعية (2)",
+      "en": "Sulaibiah",
+      "branch": "58",
+      "provinceId": "2"
+    },
+    {
+      "id": "52",
+      "ar": "القصر",
+      "en": "Al-Kasser",
+      "branch": "23",
+      "provinceId": "1"
+    },
+    {
+      "id": "53",
+      "ar": "النعيم",
+      "en": "Al -Naim",
+      "branch": "23",
+      "provinceId": "2"
+    },
+    {
+      "id": "54",
+      "ar": "النسيم",
+      "en": "Al -Naseem",
+      "branch": "23",
+      "provinceId": "2"
+    },
+    {
+      "id": "55",
+      "ar": "الواحه",
+      "en": "Waha",
+      "branch": "69",
+      "provinceId": "2"
+    },
+    {
+      "id": "56",
+      "ar": "العيون",
+      "en": "Al -Auyon",
+      "branch": "69",
+      "provinceId": "2"
+    },
+    {
+      "id": "57",
+      "ar": "منطقة الاحمدي",
+      "en": "Ahmadi",
+      "branch": "43",
+      "provinceId": "5"
+    },
+    {
+      "id": "58",
+      "ar": "ابو حليفه",
+      "en": "Abu-Halifa",
+      "branch": "63",
+      "provinceId": "5"
+    },
+    {
+      "id": "59",
+      "ar": "الرقه",
+      "en": "Rikka",
+      "branch": "3",
+      "provinceId": "5"
+    },
+    {
+      "id": "60",
+      "ar": "الصباحيه",
+      "en": "Sabahiyah",
+      "branch": "51",
+      "provinceId": "5"
+    },
+    {
+      "id": "61",
+      "ar": "الفنطاس",
+      "en": "Fintas",
+      "branch": "18",
+      "provinceId": "5"
+    },
+    {
+      "id": "62",
+      "ar": "الفحيحيل",
+      "en": "Fahaheel",
+      "branch": "5",
+      "provinceId": "5"
+    },
+    {
+      "id": "63",
+      "ar": "المنقف",
+      "en": "Munkaf",
+      "branch": "63",
+      "provinceId": "5"
+    },
+    {
+      "id": "64",
+      "ar": "الشعيبه",
+      "en": "Shuaiba",
+      "branch": "51",
+      "provinceId": "5"
+    },
+    {
+      "id": "65",
+      "ar": "هديه",
+      "en": "Hadiya",
+      "branch": "3",
+      "provinceId": "5"
+    },
+    {
+      "id": "66",
+      "ar": "الوفرة الجديدة",
+      "en": "Wafra - New",
+      "branch": "43",
+      "provinceId": "5"
+    },
+    {
+      "id": "67",
+      "ar": "المهبوله",
+      "en": "Mahbula",
+      "branch": "78",
+      "provinceId": "5"
+    },
+    {
+      "id": "68",
+      "ar": "الظهر",
+      "en": "Thaher",
+      "branch": "64",
+      "provinceId": "5"
+    },
+    {
+      "id": "69",
+      "ar": "ضاحية جابر العلى",
+      "en": "Jaber Al-Ali",
+      "branch": "64",
+      "provinceId": "5"
+    },
+    {
+      "id": "70",
+      "ar": "العقيله",
+      "en": "Auqqila",
+      "branch": "78",
+      "provinceId": "5"
+    },
+    {
+      "id": "71",
+      "ar": "ام الهيمان",
+      "en": "Um Hayman",
+      "branch": "5",
+      "provinceId": "5"
+    },
+    {
+      "id": "72",
+      "ar": "مزارع الوفره",
+      "en": "Wafra -Agriculture",
+      "branch": "43",
+      "provinceId": "5"
+    },
+    {
+      "id": "73",
+      "ar": "بيان",
+      "en": "Bayan",
+      "branch": "21",
+      "provinceId": "4"
+    },
+    {
+      "id": "74",
+      "ar": "الجابريه",
+      "en": "Jabriyah",
+      "branch": "10",
+      "provinceId": "4"
+    },
+    {
+      "id": "75",
+      "ar": "حولى",
+      "en": "Hawally",
+      "branch": "10",
+      "provinceId": "4"
+    },
+    {
+      "id": "76",
+      "ar": "ميدان حولي",
+      "en": "Maidan Hawally",
+      "branch": "10",
+      "provinceId": "4"
+    },
+    {
+      "id": "77",
+      "ar": "الشريط الساحلى ب",
+      "en": "Coastline B",
+      "branch": "1",
+      "provinceId": "6"
+    },
+    {
+      "id": "78",
+      "ar": "الرميثيه",
+      "en": "Rumaithya",
+      "branch": "38",
+      "provinceId": "4"
+    },
+    {
+      "id": "79",
+      "ar": "المسيلة",
+      "en": "Misila",
+      "branch": "38",
+      "provinceId": "6"
+    },
+    {
+      "id": "80",
+      "ar": "سلوى",
+      "en": "Salwa",
+      "branch": "38",
+      "provinceId": "4"
+    },
+    {
+      "id": "81",
+      "ar": "السالميه",
+      "en": "Salmiya",
+      "branch": "7",
+      "provinceId": "4"
+    },
+    {
+      "id": "82",
+      "ar": "الشعب",
+      "en": "Shaab",
+      "branch": "13",
+      "provinceId": "4"
+    },
+    {
+      "id": "83",
+      "ar": "مشرف",
+      "en": "Mushrif",
+      "branch": "39",
+      "provinceId": "4"
+    },
+    {
+      "id": "84",
+      "ar": "النقرة",
+      "en": "Alnuqra",
+      "branch": "10",
+      "provinceId": "4"
+    },
+    {
+      "id": "85",
+      "ar": "البدع",
+      "en": "Bedi",
+      "branch": "39",
+      "provinceId": "4"
+    },
+    {
+      "id": "86",
+      "ar": "صباح السالم",
+      "en": "Subah Alsalim",
+      "branch": "16",
+      "provinceId": "6"
+    },
+    {
+      "id": "87",
+      "ar": "ضاحيه ابو فطيره",
+      "en": "Abu - Fatira",
+      "branch": "18",
+      "provinceId": "6"
+    },
+    {
+      "id": "88",
+      "ar": "ضاحيه الفنيطيس",
+      "en": "Al Funaitees",
+      "branch": "16",
+      "provinceId": "6"
+    },
+    {
+      "id": "89",
+      "ar": "القرين",
+      "en": "Qurain",
+      "branch": "28",
+      "provinceId": "6"
+    },
+    {
+      "id": "91",
+      "ar": "تيماء",
+      "en": "Taimaa",
+      "branch": "53",
+      "provinceId": "2"
+    },
+    {
+      "id": "92",
+      "ar": "مبارك الكبير",
+      "en": "Mubarak Kabeer",
+      "branch": "28",
+      "provinceId": "6"
+    },
+    {
+      "id": "93",
+      "ar": "اشبيلية",
+      "en": "Ashbeliya",
+      "branch": "6",
+      "provinceId": "3"
+    },
+    {
+      "id": "94",
+      "ar": "الزور",
+      "en": "Zoor",
+      "branch": "5",
+      "provinceId": "5"
+    },
+    {
+      "id": "95",
+      "ar": "الشهداء",
+      "en": "Al-Shohadaa",
+      "branch": "36",
+      "provinceId": "4"
+    },
+    {
+      "id": "96",
+      "ar": "العبدلى",
+      "en": "Abdali",
+      "branch": "69",
+      "provinceId": "2"
+    },
+    {
+      "id": "97",
+      "ar": "المقوع",
+      "en": "Muqwaa",
+      "branch": "1",
+      "provinceId": "5"
+    },
+    {
+      "id": "98",
+      "ar": "المنطقه الحره",
+      "en": "Free Zone",
+      "branch": "22",
+      "provinceId": "1"
+    },
+    {
+      "id": "99",
+      "ar": "امغره",
+      "en": "Amghara",
+      "branch": "74",
+      "provinceId": "2"
+    },
+    {
+      "id": "100",
+      "ar": "عبدالله مبارك الصباح",
+      "en": "Abdulla Al Mubarak Alsuba",
+      "branch": "41",
+      "provinceId": "3"
+    },
+    {
+      "id": "101",
+      "ar": "علي صباح السالم",
+      "en": "Ali Sabah Alsalem",
+      "branch": "5",
+      "provinceId": "5"
+    },
+    {
+      "id": "102",
+      "ar": "فهد الأحمد",
+      "en": "Fahd Al - Ahmad",
+      "branch": "3",
+      "provinceId": "5"
+    },
+    {
+      "id": "103",
+      "ar": "كبد",
+      "en": "Kabad",
+      "branch": "34",
+      "provinceId": "2"
+    },
+    {
+      "id": "104",
+      "ar": "مبارك العبد الله",
+      "en": "Mubarak Al-Abdel-Allah",
+      "branch": "39",
+      "provinceId": "4"
+    },
+    {
+      "id": "105",
+      "ar": "شاليهات الخيران",
+      "en": "Al-Kayron resorts",
+      "branch": "43",
+      "provinceId": "5"
+    },
+    {
+      "id": "106",
+      "ar": "الصوابر",
+      "en": "Sawaber",
+      "branch": "1",
+      "provinceId": "1"
+    },
+    {
+      "id": "107",
+      "ar": "جنوب الجهراء",
+      "en": "South Jahra",
+      "branch": "2",
+      "provinceId": "2"
+    },
+    {
+      "id": "108",
+      "ar": "الرحاب",
+      "en": "Rihab",
+      "branch": "24",
+      "provinceId": "3"
+    },
+    {
+      "id": "109",
+      "ar": "الشويخ ب",
+      "en": "Shuwaikh B",
+      "branch": "22",
+      "provinceId": "1"
+    },
+    {
+      "id": "110",
+      "ar": "الشويخ الصناعيه (1)",
+      "en": "Shuaikh -  Ind 1",
+      "branch": "22",
+      "provinceId": "1"
+    },
+    {
+      "id": "111",
+      "ar": "الرى",
+      "en": "AlRaay",
+      "branch": "31",
+      "provinceId": "3"
+    },
+    {
+      "id": "112",
+      "ar": "شرق الصليبخات",
+      "en": "East Sulaibkhat",
+      "branch": "26",
+      "provinceId": "1"
+    },
+    {
+      "id": "113",
+      "ar": "جنوب الدوحه",
+      "en": "South Doha",
+      "branch": "26",
+      "provinceId": "2"
+    },
+    {
+      "id": "114",
+      "ar": "صباح السالم الإستثمارية",
+      "en": "Sabah AlSalem Investment",
+      "branch": "16",
+      "provinceId": "6"
+    },
+    {
+      "id": "115",
+      "ar": "العدان",
+      "en": "Al-Adan",
+      "branch": "28",
+      "provinceId": "6"
+    },
+    {
+      "id": "116",
+      "ar": "القصور",
+      "en": "Qosoor",
+      "branch": "28",
+      "provinceId": "6"
+    },
+    {
+      "id": "117",
+      "ar": "ابوفطيره الحرفيه",
+      "en": "Abo Fetera Craft",
+      "branch": "78",
+      "provinceId": "6"
+    },
+    {
+      "id": "118",
+      "ar": "الشعب البحري",
+      "en": "Shaeb Albahre",
+      "branch": "13",
+      "provinceId": "4"
+    },
+    {
+      "id": "119",
+      "ar": "العارضيه الحرفيه",
+      "en": "Ardhiya craft",
+      "branch": "14",
+      "provinceId": "3"
+    },
+    {
+      "id": "120",
+      "ar": "ميناء عبدالله",
+      "en": "Mina Abdullah",
+      "branch": "5",
+      "provinceId": "5"
+    },
+    {
+      "id": "121",
+      "ar": "الشعيبة الصناعية(ش)",
+      "en": "Shuaiba-ind E",
+      "branch": "5",
+      "provinceId": "5"
+    },
+    {
+      "id": "122",
+      "ar": "شرق الاحمدي",
+      "en": "East Ahmadi",
+      "branch": "43",
+      "provinceId": "5"
+    },
+    {
+      "id": "123",
+      "ar": "ميناء الاحمدي",
+      "en": "Mina Alahmadi",
+      "branch": "43",
+      "provinceId": "5"
+    },
+    {
+      "id": "125",
+      "ar": "جنوب الرقه",
+      "en": "South Hadiya",
+      "branch": "3",
+      "provinceId": "5"
+    },
+    {
+      "id": "126",
+      "ar": "جنوب الصباحيه",
+      "en": "South - Sabahiya",
+      "branch": "51",
+      "provinceId": "5"
+    },
+    {
+      "id": "127",
+      "ar": "السالمى",
+      "en": "Al - Salmi",
+      "branch": "1",
+      "provinceId": "2"
+    },
+    {
+      "id": "128",
+      "ar": "الصليبيه الزراعيه",
+      "en": "Sulaibiya",
+      "branch": "58",
+      "provinceId": "2"
+    },
+    {
+      "id": "129",
+      "ar": "الصبيه",
+      "en": "Al - Sebiya",
+      "branch": "71",
+      "provinceId": "2"
+    },
+    {
+      "id": "130",
+      "ar": "الروضتين",
+      "en": "Al - Rawadatain",
+      "branch": "1",
+      "provinceId": "2"
+    },
+    {
+      "id": "131",
+      "ar": "كاظمه",
+      "en": "Kathma",
+      "branch": "1",
+      "provinceId": "2"
+    },
+    {
+      "id": "132",
+      "ar": "مدينة الكويت",
+      "en": "Kuwait City",
+      "branch": "1",
+      "provinceId": "1"
+    },
+    {
+      "id": "133",
+      "ar": "الشويخ الصحية",
+      "en": "Al Shuwaikh Sanitary",
+      "branch": "22",
+      "provinceId": "1"
+    },
+    {
+      "id": "134",
+      "ar": "الشويخ التعليمية",
+      "en": "Shuwaikh Educational",
+      "branch": "22",
+      "provinceId": "1"
+    },
+    {
+      "id": "135",
+      "ar": "الشويخ الشمالي",
+      "en": "North Shuwaikh",
+      "branch": "22",
+      "provinceId": "1"
+    },
+    {
+      "id": "136",
+      "ar": "ميناء الدوحه",
+      "en": "Doha Port",
+      "branch": "26",
+      "provinceId": "1"
+    },
+    {
+      "id": "137",
+      "ar": "الري الصناعية",
+      "en": "Industrial Rai",
+      "branch": "31",
+      "provinceId": "3"
+    },
+    {
+      "id": "138",
+      "ar": "ميناء الشويخ",
+      "en": "Shuwaikh Port",
+      "branch": "22",
+      "provinceId": "1"
+    },
+    {
+      "id": "139",
+      "ar": "المباركيه",
+      "en": "Mubarakiya",
+      "branch": "1",
+      "provinceId": "1"
+    },
+    {
+      "id": "140",
+      "ar": "جنوب خيطان",
+      "en": "South Khaitan",
+      "branch": "17",
+      "provinceId": "3"
+    },
+    {
+      "id": "141",
+      "ar": "الشدادية",
+      "en": "Shedadiya",
+      "branch": "41",
+      "provinceId": "3"
+    },
+    {
+      "id": "142",
+      "ar": "العضيلية",
+      "en": "Udhailiyah",
+      "branch": "1",
+      "provinceId": "1"
+    },
+    {
+      "id": "144",
+      "ar": "الشريط الساحلي أ",
+      "en": "Coastline A",
+      "branch": "1",
+      "provinceId": "6"
+    },
+    {
+      "id": "145",
+      "ar": "شرق القرين",
+      "en": "East Qurain",
+      "branch": "78",
+      "provinceId": "6"
+    },
+    {
+      "id": "146",
+      "ar": "غرب الفنيطيس",
+      "en": "West Funaitees",
+      "branch": "18",
+      "provinceId": "5"
+    },
+    {
+      "id": "147",
+      "ar": "الصفاة",
+      "en": "Safat",
+      "branch": "1",
+      "provinceId": "1"
+    },
+    {
+      "id": "148",
+      "ar": "صباح الاحمد (1)",
+      "en": "Sabah Al-Ahmad (1)",
+      "branch": "5",
+      "provinceId": "5"
+    },
+    {
+      "id": "149",
+      "ar": "المسايل",
+      "en": "Masayel",
+      "branch": "16",
+      "provinceId": "6"
+    },
+    {
+      "id": "150",
+      "ar": "النهضه",
+      "en": "Al - Nahda",
+      "branch": "26",
+      "provinceId": "1"
+    },
+    {
+      "id": "151",
+      "ar": "جابر الأحمد",
+      "en": "Jaber Alahmad",
+      "branch": "26",
+      "provinceId": "1"
+    },
+    {
+      "id": "152",
+      "ar": "سعد العبدالله",
+      "en": "Saad Al Abdullah",
+      "branch": "71",
+      "provinceId": "2"
+    },
+    {
+      "id": "153",
+      "ar": "غرناطه",
+      "en": "Garnada",
+      "branch": "60",
+      "provinceId": "1"
+    },
+    {
+      "id": "154",
+      "ar": "أنجفة",
+      "en": "Anjafa",
+      "branch": "38",
+      "provinceId": "4"
+    },
+    {
+      "id": "155",
+      "ar": "ابوالحصانيه",
+      "en": "Abu- Alhasniya",
+      "branch": "18",
+      "provinceId": "6"
+    },
+    {
+      "id": "156",
+      "ar": "اشبيلية",
+      "en": "Ishbiliya",
+      "branch": "6",
+      "provinceId": "3"
+    },
+    {
+      "id": "157",
+      "ar": "واره",
+      "en": "Wara",
+      "branch": "1",
+      "provinceId": "2"
+    },
+    {
+      "id": "158",
+      "ar": "الجنوبيه الجواخير",
+      "en": "Gawakheer-South",
+      "branch": "1",
+      "provinceId": "5"
+    },
+    {
+      "id": "159",
+      "ar": "جهراء صناعيه حرفيه 1",
+      "en": "Jahraa Indust 1",
+      "branch": "2",
+      "provinceId": "2"
+    },
+    {
+      "id": "160",
+      "ar": "الدوحه السكنية",
+      "en": "Doha Residential",
+      "branch": "26",
+      "provinceId": "1"
+    },
+    {
+      "id": "161",
+      "ar": "الشعيبة الصناعية(غ )",
+      "en": "Shuaiba-ind W",
+      "branch": "5",
+      "provinceId": "5"
+    },
+    {
+      "id": "162",
+      "ar": "الشويخ الصناعيه (2)",
+      "en": "Shuaikh -  Ind 2",
+      "branch": "22",
+      "provinceId": "1"
+    },
+    {
+      "id": "163",
+      "ar": "الشويخ الصناعيه (3)",
+      "en": "Shuaikh -  Ind 3",
+      "branch": "22",
+      "provinceId": "1"
+    },
+    {
+      "id": "164",
+      "ar": "الصليبيةالصناعية (2)",
+      "en": "Sulaibiya - Ind (2)",
+      "branch": "58",
+      "provinceId": "2"
+    },
+    {
+      "id": "165",
+      "ar": "الصليبيه الزراعيه",
+      "en": "Sulaibiya - Agriculture",
+      "branch": "58",
+      "provinceId": "2"
+    },
+    {
+      "id": "166",
+      "ar": "الصليبيه السكنية",
+      "en": "Sulaibiya Residential",
+      "branch": "58",
+      "provinceId": "2"
+    },
+    {
+      "id": "167",
+      "ar": "الصليبيه الشعبيه",
+      "en": "Sulaibiya Shabeia",
+      "branch": "58",
+      "provinceId": "2"
+    },
+    {
+      "id": "168",
+      "ar": "العارضيه (4)",
+      "en": "Ardiya 4",
+      "branch": "14",
+      "provinceId": "3"
+    },
+    {
+      "id": "169",
+      "ar": "العارضيه (6)",
+      "en": "Ardiya 6",
+      "branch": "14",
+      "provinceId": "3"
+    },
+    {
+      "id": "170",
+      "ar": "العارضيه مخازن",
+      "en": "Ardiya Stores",
+      "branch": "14",
+      "provinceId": "3"
+    },
+    {
+      "id": "171",
+      "ar": "منطقة وزارات",
+      "en": "Wizarat area",
+      "branch": "19",
+      "provinceId": "4"
+    },
+    {
+      "id": "172",
+      "ar": "القيروان",
+      "en": "Qayrawan",
+      "branch": "74",
+      "provinceId": "2"
+    },
+    {
+      "id": "173",
+      "ar": "المطار الدولى",
+      "en": "Air Port",
+      "branch": "66",
+      "provinceId": "3"
+    },
+    {
+      "id": "174",
+      "ar": "المنطقه الوسطى",
+      "en": "Mid - Reg",
+      "branch": "1",
+      "provinceId": "6"
+    },
+    {
+      "id": "175",
+      "ar": "النعايم",
+      "en": "Al Neayem",
+      "branch": "53",
+      "provinceId": "2"
+    },
+    {
+      "id": "176",
+      "ar": "النعايم الصناعية",
+      "en": "Al Neayem Indust",
+      "branch": "53",
+      "provinceId": "2"
+    },
+    {
+      "id": "177",
+      "ar": "الوفرة السكنية",
+      "en": "Al Wafra Residential",
+      "branch": "43",
+      "provinceId": "5"
+    },
+    {
+      "id": "178",
+      "ar": "ام العيش",
+      "en": "Aum - Al -Ash",
+      "branch": "1",
+      "provinceId": "2"
+    },
+    {
+      "id": "179",
+      "ar": "بر محافظه الاحمدى",
+      "en": "Ahmadi- Desert",
+      "branch": "43",
+      "provinceId": "5"
+    },
+    {
+      "id": "180",
+      "ar": "بر محافظه الجهراء",
+      "en": "Jahra - Desert",
+      "branch": "2",
+      "provinceId": "2"
+    },
+    {
+      "id": "181",
+      "ar": "جنوب الاحمدى",
+      "en": "South Al Ahmadi",
+      "branch": "43",
+      "provinceId": "5"
+    },
+    {
+      "id": "182",
+      "ar": "امغره الصناعية",
+      "en": "Amgara - Ind",
+      "branch": "74",
+      "provinceId": "2"
+    },
+    {
+      "id": "183",
+      "ar": "جنوب امغرة",
+      "en": "Amgara-South",
+      "branch": "71",
+      "provinceId": "2"
+    },
+    {
+      "id": "184",
+      "ar": "حدائق السور",
+      "en": "Soor Gardens",
+      "branch": "12",
+      "provinceId": "1"
+    },
+    {
+      "id": "185",
+      "ar": "رجم خشمان",
+      "en": "Rajm Khashman",
+      "branch": "1",
+      "provinceId": "5"
+    },
+    {
+      "id": "186",
+      "ar": "شاليهات الجليعه",
+      "en": "Jlaiaa Resort",
+      "branch": "1",
+      "provinceId": "5"
+    },
+    {
+      "id": "187",
+      "ar": "شاليهات الدوحه",
+      "en": "Doha Resort",
+      "branch": "26",
+      "provinceId": "1"
+    },
+    {
+      "id": "188",
+      "ar": "شاليهات الزور",
+      "en": "Zoor Resort",
+      "branch": "5",
+      "provinceId": "5"
+    },
+    {
+      "id": "189",
+      "ar": "شاليهات الضباعيه",
+      "en": "Dubaeeiya Resort",
+      "branch": "1",
+      "provinceId": "5"
+    },
+    {
+      "id": "190",
+      "ar": "شاليهات بنيدر",
+      "en": "Bedier Resort",
+      "branch": "1",
+      "provinceId": "5"
+    },
+    {
+      "id": "191",
+      "ar": "شاليهات ميناءعبدالله",
+      "en": "Abdulla Port-Resort",
+      "branch": "5",
+      "provinceId": "5"
+    },
+    {
+      "id": "192",
+      "ar": "شرق الاحمدى",
+      "en": "West Al Ahmadi",
+      "branch": "43",
+      "provinceId": "5"
+    },
+    {
+      "id": "193",
+      "ar": "شمال الاحمدى",
+      "en": "North Al Ahmadi",
+      "branch": "43",
+      "provinceId": "5"
+    },
+    {
+      "id": "194",
+      "ar": "شمال غرب الجهراء",
+      "en": "Northwest Al_Jahra",
+      "branch": "2",
+      "provinceId": "2"
+    },
+    {
+      "id": "195",
+      "ar": "شمال غرب الصليبيخات",
+      "en": "North West Sulaibekhat",
+      "branch": "26",
+      "provinceId": "1"
+    },
+    {
+      "id": "196",
+      "ar": "صباح الاحمد (2)",
+      "en": "Sabah Al-Ahmad (2)",
+      "branch": "5",
+      "provinceId": "5"
+    },
+    {
+      "id": "197",
+      "ar": "صباح الاحمد (3)",
+      "en": "Sabah Al-Ahmad (3)",
+      "branch": "5",
+      "provinceId": "5"
+    },
+    {
+      "id": "198",
+      "ar": "صباح الأحمد البحرية",
+      "en": "Sabah Al-Ahmad C",
+      "branch": "5",
+      "provinceId": "5"
+    },
+    {
+      "id": "199",
+      "ar": "صباح الاحمد (4)",
+      "en": "Sabah Al-Ahmad (4)",
+      "branch": "5",
+      "provinceId": "5"
+    },
+    {
+      "id": "200",
+      "ar": "صباح الاحمد (5)",
+      "en": "Sabah Al-Ahmad (5)",
+      "branch": "5",
+      "provinceId": "5"
+    },
+    {
+      "id": "201",
+      "ar": "عارضية استعمال حكومة",
+      "en": "Ardiya Gov Uses",
+      "branch": "14",
+      "provinceId": "3"
+    },
+    {
+      "id": "202",
+      "ar": "عبدالله المبارك",
+      "en": "Abdulla Al Mubarak",
+      "branch": "41",
+      "provinceId": "3"
+    },
+    {
+      "id": "203",
+      "ar": "غرب ابوفطيره الحرفية",
+      "en": "West Abu Fateera Ind",
+      "branch": "78",
+      "provinceId": "6"
+    },
+    {
+      "id": "204",
+      "ar": "كبد الزراعية",
+      "en": "Kabad Agricultural",
+      "branch": "34",
+      "provinceId": "5"
+    },
+    {
+      "id": "205",
+      "ar": "مدينة جابر الأحمد",
+      "en": "Jaber Al Ahmad City",
+      "branch": "63",
+      "provinceId": "1"
+    },
+    {
+      "id": "206",
+      "ar": "مدينة سعد العبدالله",
+      "en": "Saad Al Abdullah City",
+      "branch": "71",
+      "provinceId": "2"
+    },
+    {
+      "id": "207",
+      "ar": "معسكرات الجهراء",
+      "en": "Jahra - Camp",
+      "branch": "2",
+      "provinceId": "5"
+    },
+    {
+      "id": "208",
+      "ar": "معسكرات المباركيه",
+      "en": "Mubarakiya Comp",
+      "branch": "1",
+      "provinceId": "1"
+    },
+    {
+      "id": "209",
+      "ar": "وسط الاحمدى",
+      "en": "Med Al Ahmadi",
+      "branch": "43",
+      "provinceId": "5"
+    },
+    {
+      "id": "210",
+      "ar": "مقبرة الصليبيخات",
+      "en": "Sulaibekhat Cemetery",
+      "branch": "74",
+      "provinceId": "2"
+    },
+    {
+      "id": "211",
+      "ar": "منتزه السره",
+      "en": "Surra - Park",
+      "branch": "1",
+      "provinceId": "3"
+    },
+    {
+      "id": "212",
+      "ar": "الادعمي",
+      "en": "Al- Adami",
+      "branch": "1",
+      "provinceId": "5"
+    },
+    {
+      "id": "213",
+      "ar": "الاطراف",
+      "en": "Al - Atraaf",
+      "branch": "1",
+      "provinceId": "2"
+    },
+    {
+      "id": "214",
+      "ar": "البحيث",
+      "en": "Al - Behaith",
+      "branch": "1",
+      "provinceId": "2"
+    },
+    {
+      "id": "215",
+      "ar": "الخيران السكنية",
+      "en": "Al-Kayron residential",
+      "branch": "5",
+      "provinceId": "5"
+    },
+    {
+      "id": "216",
+      "ar": "السكراب",
+      "en": "Sekrab -Reg",
+      "branch": "1",
+      "provinceId": "2"
+    },
+    {
+      "id": "217",
+      "ar": "الشدادية الصناعية",
+      "en": "Alshdadiya - Indust",
+      "branch": "41",
+      "provinceId": "5"
+    },
+    {
+      "id": "218",
+      "ar": "الشقايا",
+      "en": "Shegaya",
+      "branch": "1",
+      "provinceId": "2"
+    },
+    {
+      "id": "219",
+      "ar": "الصبيحيه",
+      "en": "Sbainhiya",
+      "branch": "1",
+      "provinceId": "5"
+    },
+    {
+      "id": "220",
+      "ar": "الصليبيه الصناعيه (3)",
+      "en": "Sulaibiya - Ind (3)",
+      "branch": "58",
+      "provinceId": "2"
+    },
+    {
+      "id": "221",
+      "ar": "المطلاع",
+      "en": "Mitlaa",
+      "branch": "69",
+      "provinceId": "2"
+    },
+    {
+      "id": "222",
+      "ar": "النويصيب",
+      "en": "Nwaiseeb",
+      "branch": "1",
+      "provinceId": "5"
+    },
+    {
+      "id": "223",
+      "ar": "الواجهه البحريه",
+      "en": "Coastal strip",
+      "branch": "1",
+      "provinceId": "1"
+    },
+    {
+      "id": "224",
+      "ar": "ج.غ عبدالله المبارك",
+      "en": "Abdulla Mubarak - South W",
+      "branch": "41",
+      "provinceId": "3"
+    },
+    {
+      "id": "225",
+      "ar": "جزيرة ام المرادم",
+      "en": "Aum - Almaradim Isl",
+      "branch": "1",
+      "provinceId": "1"
+    },
+    {
+      "id": "226",
+      "ar": "جزيرة ام النمل",
+      "en": "Aum - Alnamil Isl",
+      "branch": "1",
+      "provinceId": "1"
+    },
+    {
+      "id": "227",
+      "ar": "جزيرة بوبيان",
+      "en": "Bubyan Isl",
+      "branch": "1",
+      "provinceId": "2"
+    },
+    {
+      "id": "228",
+      "ar": "جزيرة عوهه",
+      "en": "Oha Isl",
+      "branch": "1",
+      "provinceId": "1"
+    },
+    {
+      "id": "229",
+      "ar": "جزيرة فيلكا",
+      "en": "Failka Isl",
+      "branch": "1",
+      "provinceId": "1"
+    },
+    {
+      "id": "230",
+      "ar": "جزيرة قاروه",
+      "en": "Qarowa Isl",
+      "branch": "1",
+      "provinceId": "1"
+    },
+    {
+      "id": "231",
+      "ar": "جزيرة كبر",
+      "en": "Kubar Isl",
+      "branch": "1",
+      "provinceId": "1"
+    },
+    {
+      "id": "232",
+      "ar": "جزيرة مسكان",
+      "en": "Miskan Isl",
+      "branch": "1",
+      "provinceId": "1"
+    },
+    {
+      "id": "233",
+      "ar": "جزيرة وربه",
+      "en": "Warba Isl",
+      "branch": "1",
+      "provinceId": "2"
+    },
+    {
+      "id": "234",
+      "ar": "جنوب المطلاع",
+      "en": "Al Mutlaa-South",
+      "branch": "69",
+      "provinceId": "2"
+    },
+    {
+      "id": "235",
+      "ar": "جنوب صباح الأحمد",
+      "en": "Sabah Al-Ahmad-South",
+      "branch": "5",
+      "provinceId": "5"
+    },
+    {
+      "id": "236",
+      "ar": "جواخير الجهراء",
+      "en": "Jahraa - Gawakheer",
+      "branch": "53",
+      "provinceId": "2"
+    },
+    {
+      "id": "237",
+      "ar": "شاليهات الصبيه",
+      "en": "AlSubbiya Resort",
+      "branch": "71",
+      "provinceId": "2"
+    },
+    {
+      "id": "238",
+      "ar": "شاليهات النويصيب",
+      "en": "Nwaiseeb resort",
+      "branch": "5",
+      "provinceId": "5"
+    },
+    {
+      "id": "239",
+      "ar": "شمال المطلاع",
+      "en": "Al Mutlaa-North",
+      "branch": "69",
+      "provinceId": "2"
+    },
+    {
+      "id": "240",
+      "ar": "شاليهات كاظمه",
+      "en": "Kazma Resort",
+      "branch": "1",
+      "provinceId": "2"
+    },
+    {
+      "id": "241",
+      "ar": "صباح الأحمد (6)",
+      "en": "Sabah Al-Ahmad (6)",
+      "branch": "5",
+      "provinceId": "5"
+    },
+    {
+      "id": "242",
+      "ar": "صباح الأحمد الإستثمارية",
+      "en": "Sabah Al-Ahmad Investment",
+      "branch": "5",
+      "provinceId": "5"
+    },
+    {
+      "id": "243",
+      "ar": "صباح الأحمد الخدمية",
+      "en": "Sabah Al-Ahmad Service",
+      "branch": "5",
+      "provinceId": "5"
+    },
+    {
+      "id": "244",
+      "ar": "صباح السالم الجامعية",
+      "en": "Subah Al Salim University",
+      "branch": "16",
+      "provinceId": "3"
+    },
+    {
+      "id": "245",
+      "ar": "غرب عبدالله المبارك",
+      "en": "Abdel-Allah Al-Mubarak-We",
+      "branch": "41",
+      "provinceId": "3"
+    },
+    {
+      "id": "246",
+      "ar": "مدينة الأحمدي",
+      "en": "Ahmadi City",
+      "branch": "43",
+      "provinceId": "5"
+    },
+    {
+      "id": "247",
+      "ar": "مصفاة ميناء الأحمدي",
+      "en": "Refinery Ahmadi Port",
+      "branch": "43",
+      "provinceId": "5"
+    },
+    {
+      "id": "248",
+      "ar": "مصفاة ميناء عبدالله",
+      "en": "Refinery Abdullah Port",
+      "branch": "43",
+      "provinceId": "5"
+    }
+  ],
+  "sic_codes": [
+    {
+      "id": "17",
+      "en": "Housewife",
+      "ar": "ربة منزل"
+    },
+    {
+      "id": "22",
+      "en": "Government Employees",
+      "ar": "موظف حكومة"
+    },
+    {
+      "id": "23",
+      "en": "Retired",
+      "ar": "متقاعد"
+    },
+    {
+      "id": "24",
+      "en": "Student",
+      "ar": "طالب"
+    },
+    {
+      "id": "25",
+      "en": "Freelancers",
+      "ar": "أعمال حره"
+    },
+    {
+      "id": "29",
+      "en": "Private Sector Employee",
+      "ar": "موظف قطاع خاص"
+    },
+    {
+      "id": "90",
+      "en": "Other",
+      "ar": "أخرى"
+    }
+  ]
+}

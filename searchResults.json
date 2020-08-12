@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "name": "ACME NitroVentures",
+    "address": "142 HOLLY LANE HOPEWELL, VA 23860, USA",
+    "status": "active",
+    "registrationNumber": "J40-383-2009",
+    "vatNumber": "US184189151",
+    "country": "United States of America",
+    "additionalStatusDetails": [
+      "Registration Certification Changed",
+      "Headquarters Expired"
+    ],
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores."
+  },
+  {
+    "id": 2,
+    "name": "ACME Inc.",
+    "address": "4 CROSS LANE SCHERERVILLE, IN 46375, USA",
+    "registrationNumber": "J40-383-2019",
+    "vatNumber": "US184189152",
+    "country": "United States of America",
+    "status": "inactive",
+    "additionalStatusDetails": ["Registration Certification Changed"],
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores."
+  },
+  {
+    "id": 3,
+    "name": "ACME Fundation Limited",
+    "address": "15 ROAD UNTURNED, CA 99000, USA",
+    "status": "active",
+    "registrationNumber": "J40-383-2029",
+    "vatNumber": "US184189153",
+    "country": "United States of America",
+    "additionalStatusDetails": [],
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores."
+  },
+  {
+    "id": 4,
+    "name": "ACME Global Venture",
+    "address": "53 PARK LAKE ROAD LOUISIANA, TN 15768, USA",
+    "registrationNumber": "J40-383-2039",
+    "vatNumber": "US184189154",
+    "country": "United States of America",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores."
+  },
+  {
+    "id": 5,
+    "name": "ACME Insurance Ltd.",
+    "address": "13 HIGH MOUNTAIN ROAD, CA 95011, USA",
+    "status": "active",
+    "registrationNumber": "J40-383-2049",
+    "vatNumber": "US184189155",
+    "country": "United States of America",
+    "additionalStatusDetails": ["Registration Certification Changed"],
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores."
+  },
+  {
+    "id": 6,
+    "name": "ACME NitroVentures",
+    "address": "142 HOLLY LANE HOPEWELL, VA 23860, USA",
+    "registrationNumber": "J40-383-2059",
+    "vatNumber": "US184189156",
+    "country": "United States of America",
+    "additionalStatusDetails": ["Registration Certification Changed"],
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores."
+  },
+  {
+    "id": 7,
+    "name": "ACME Inc.",
+    "address": "4 CROSS LANE SCHERERVILLE, IN 46375, USA",
+    "status": "active",
+    "registrationNumber": "J40-383-2069",
+    "vatNumber": "US184189157",
+    "country": "United States of America",
+    "additionalStatusDetails": ["Registration Certification Changed"],
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores."
+  },
+  {
+    "id": 8,
+    "name": "ACME Fundation Limited",
+    "address": "15 ROAD UNTURNED, CA 99000, USA",
+    "registrationNumber": "J40-383-2079",
+    "vatNumber": "US184189158",
+    "country": "United States of America",
+    "additionalStatusDetails": ["Registration Certification Changed"],
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores."
+  },
+  {
+    "id": 9,
+    "name": "ACME Global Venture",
+    "address": "53 PARK LAKE ROAD LOUISIANA, TN 15768, USA",
+    "registrationNumber": "J40-383-2089",
+    "vatNumber": "US184189159",
+    "country": "United States of America",
+    "additionalStatusDetails": ["Registration Certification Changed"],
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores."
+  },
+  {
+    "id": 10,
+    "name": "ACME Insurance Ltd.",
+    "address": "13 HIGH MOUNTAIN ROAD, CA 95011, USA",
+    "registrationNumber": "J40-383-2099",
+    "vatNumber": "US184189160",
+    "country": "United States of America",
+    "additionalStatusDetails": ["Registration Certification Changed"],
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores."
+  },
+  {
+    "id": 10,
+    "name": "ACME Insurance Ltd.",
+    "address": "13 HIGH MOUNTAIN ROAD, CA 95011, USA",
+    "registrationNumber": "J40-383-2099",
+    "vatNumber": "US184189160",
+    "country": "Bahrain",
+    "additionalStatusDetails": ["Registration Certification Changed"],
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores."
+  }
+]

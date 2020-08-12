@@ -1,0 +1,1239 @@
+<S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+            <env:Header>
+               <work:WorkContext xmlns:work="http://oracle.com/weblogic/soap/workarea/">rO0ABXdqAB93ZWJsb2dpYy5hcHAuS0ZIQmFua2luZ0J1c2luZXNzAAAA1gAAACN3ZWJsb2dpYy53b3JrYXJlYS5TdHJpbmdXb3JrQ29udGV4dAAaVjEuMTEuMS5NYXN0ZXIuMTBNYXJjaDIwMjAAAA==</work:WorkContext>
+            </env:Header>
+            <S:Body>
+               <ns0:getBankingStaticDataResponse xmlns:ns0="http://www.openuri.org/" xmlns:ns1="http://www.kfh.com/">
+                  <ns0:getBankingStaticDataResult>
+                     <dataTypeDetailList>
+                        <dataTypeDetail>
+                           <dataNameAr>1</dataNameAr>
+                           <dataNameEn>الصالحية</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>2</dataNameAr>
+                           <dataNameEn>غرناطه</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>3</dataNameAr>
+                           <dataNameEn>الخالديه</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>4</dataNameAr>
+                           <dataNameEn>الدسمه</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>5</dataNameAr>
+                           <dataNameEn>الدعيه</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>6</dataNameAr>
+                           <dataNameEn>بنيد القار</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>7</dataNameAr>
+                           <dataNameEn>دسمان</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>8</dataNameAr>
+                           <dataNameEn>الشرق</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>9</dataNameAr>
+                           <dataNameEn>الروضه</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>10</dataNameAr>
+                           <dataNameEn>الدوحه</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>11</dataNameAr>
+                           <dataNameEn>الشاميه</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>12</dataNameAr>
+                           <dataNameEn>الشويخ السكنية</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>13</dataNameAr>
+                           <dataNameEn>المرقاب</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>14</dataNameAr>
+                           <dataNameEn>القبله</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>15</dataNameAr>
+                           <dataNameEn>الصليبخات</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>16</dataNameAr>
+                           <dataNameEn>ضاحيه عبدالله السالم</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>17</dataNameAr>
+                           <dataNameEn>العديليه</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>18</dataNameAr>
+                           <dataNameEn>الفيحاء</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>19</dataNameAr>
+                           <dataNameEn>القادسيه</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>20</dataNameAr>
+                           <dataNameEn>جيوان/المنطقة العسكرية</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>21</dataNameAr>
+                           <dataNameEn>المنطقه الصحيه</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>22</dataNameAr>
+                           <dataNameEn>المنطقة الصناعية</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>23</dataNameAr>
+                           <dataNameEn>كيفان</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>24</dataNameAr>
+                           <dataNameEn>المنصوريه</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>25</dataNameAr>
+                           <dataNameEn>النزهه</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>26</dataNameAr>
+                           <dataNameEn>فيلكا</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>37</dataNameAr>
+                           <dataNameEn>السره</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>47</dataNameAr>
+                           <dataNameEn>قرطبه</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>48</dataNameAr>
+                           <dataNameEn>اليرموك</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>52</dataNameAr>
+                           <dataNameEn>القصر</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>98</dataNameAr>
+                           <dataNameEn>المنطقه الحره</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>106</dataNameAr>
+                           <dataNameEn>الصوابر</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>109</dataNameAr>
+                           <dataNameEn>الشويخ ب</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>110</dataNameAr>
+                           <dataNameEn>الشويخ الصناعيه (1)</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>112</dataNameAr>
+                           <dataNameEn>شرق الصليبخات</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>132</dataNameAr>
+                           <dataNameEn>مدينة الكويت</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>133</dataNameAr>
+                           <dataNameEn>الشويخ الصحية</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>134</dataNameAr>
+                           <dataNameEn>الشويخ التعليمية</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>135</dataNameAr>
+                           <dataNameEn>الشويخ الشمالي</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>136</dataNameAr>
+                           <dataNameEn>ميناء الدوحه</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>138</dataNameAr>
+                           <dataNameEn>ميناء الشويخ</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>139</dataNameAr>
+                           <dataNameEn>المباركيه</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>142</dataNameAr>
+                           <dataNameEn>العضيلية</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>147</dataNameAr>
+                           <dataNameEn>الصفاة</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>150</dataNameAr>
+                           <dataNameEn>النهضه</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>151</dataNameAr>
+                           <dataNameEn>جابر الأحمد</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>153</dataNameAr>
+                           <dataNameEn>غرناطه</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>160</dataNameAr>
+                           <dataNameEn>الدوحه السكنية</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>162</dataNameAr>
+                           <dataNameEn>الشويخ الصناعيه (2)</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>163</dataNameAr>
+                           <dataNameEn>الشويخ الصناعيه (3)</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>184</dataNameAr>
+                           <dataNameEn>حدائق السور</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>187</dataNameAr>
+                           <dataNameEn>شاليهات الدوحه</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>195</dataNameAr>
+                           <dataNameEn>شمال غرب الصليبيخات</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>205</dataNameAr>
+                           <dataNameEn>مدينة جابر الأحمد</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>208</dataNameAr>
+                           <dataNameEn>معسكرات المباركيه</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>223</dataNameAr>
+                           <dataNameEn>الواجهه البحريه</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>225</dataNameAr>
+                           <dataNameEn>جزيرة ام المرادم</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>226</dataNameAr>
+                           <dataNameEn>جزيرة ام النمل</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>228</dataNameAr>
+                           <dataNameEn>جزيرة عوهه</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>229</dataNameAr>
+                           <dataNameEn>جزيرة فيلكا</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>230</dataNameAr>
+                           <dataNameEn>جزيرة قاروه</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>231</dataNameAr>
+                           <dataNameEn>جزيرة كبر</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>232</dataNameAr>
+                           <dataNameEn>جزيرة مسكان</dataNameEn>
+                           <dataTypeID>1</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>49</dataNameAr>
+                           <dataNameEn>الجهراء</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>50</dataNameAr>
+                           <dataNameEn>الصليبيةالصناعية (1)</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>51</dataNameAr>
+                           <dataNameEn>الصليبيةالصناعية (2)</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>53</dataNameAr>
+                           <dataNameEn>النعيم</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>54</dataNameAr>
+                           <dataNameEn>النسيم</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>55</dataNameAr>
+                           <dataNameEn>الواحه</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>56</dataNameAr>
+                           <dataNameEn>العيون</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>91</dataNameAr>
+                           <dataNameEn>تيماء</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>96</dataNameAr>
+                           <dataNameEn>العبدلى</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>99</dataNameAr>
+                           <dataNameEn>امغره</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>103</dataNameAr>
+                           <dataNameEn>كبد</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>107</dataNameAr>
+                           <dataNameEn>جنوب الجهراء</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>113</dataNameAr>
+                           <dataNameEn>جنوب الدوحه</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>127</dataNameAr>
+                           <dataNameEn>السالمى</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>128</dataNameAr>
+                           <dataNameEn>الصليبيه الزراعيه</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>129</dataNameAr>
+                           <dataNameEn>الصبيه</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>130</dataNameAr>
+                           <dataNameEn>الروضتين</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>131</dataNameAr>
+                           <dataNameEn>كاظمه</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>152</dataNameAr>
+                           <dataNameEn>سعد العبدالله</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>157</dataNameAr>
+                           <dataNameEn>واره</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>159</dataNameAr>
+                           <dataNameEn>جهراء صناعيه حرفيه 1</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>164</dataNameAr>
+                           <dataNameEn>الصليبيةالصناعية (2)</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>165</dataNameAr>
+                           <dataNameEn>الصليبيه الزراعيه</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>166</dataNameAr>
+                           <dataNameEn>الصليبيه السكنية</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>167</dataNameAr>
+                           <dataNameEn>الصليبيه الشعبيه</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>172</dataNameAr>
+                           <dataNameEn>القيروان</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>175</dataNameAr>
+                           <dataNameEn>النعايم</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>176</dataNameAr>
+                           <dataNameEn>النعايم الصناعية</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>178</dataNameAr>
+                           <dataNameEn>ام العيش</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>180</dataNameAr>
+                           <dataNameEn>بر محافظه الجهراء</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>182</dataNameAr>
+                           <dataNameEn>امغره الصناعية</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>183</dataNameAr>
+                           <dataNameEn>جنوب امغرة</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>194</dataNameAr>
+                           <dataNameEn>شمال غرب الجهراء</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>206</dataNameAr>
+                           <dataNameEn>مدينة سعد العبدالله</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>210</dataNameAr>
+                           <dataNameEn>مقبرة الصليبيخات</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>213</dataNameAr>
+                           <dataNameEn>الاطراف</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>214</dataNameAr>
+                           <dataNameEn>البحيث</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>216</dataNameAr>
+                           <dataNameEn>السكراب</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>218</dataNameAr>
+                           <dataNameEn>الشقايا</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>220</dataNameAr>
+                           <dataNameEn>الصليبيه الصناعيه (3)</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>221</dataNameAr>
+                           <dataNameEn>المطلاع</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>227</dataNameAr>
+                           <dataNameEn>جزيرة بوبيان</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>233</dataNameAr>
+                           <dataNameEn>جزيرة وربه</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>234</dataNameAr>
+                           <dataNameEn>جنوب المطلاع</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>236</dataNameAr>
+                           <dataNameEn>جواخير الجهراء</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>237</dataNameAr>
+                           <dataNameEn>شاليهات الصبيه</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>239</dataNameAr>
+                           <dataNameEn>شمال المطلاع</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>240</dataNameAr>
+                           <dataNameEn>شاليهات كاظمه</dataNameEn>
+                           <dataTypeID>2</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>27</dataNameAr>
+                           <dataNameEn>خيطان</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>28</dataNameAr>
+                           <dataNameEn>الاندلس</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>29</dataNameAr>
+                           <dataNameEn>الرقعي</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>30</dataNameAr>
+                           <dataNameEn>منطقة الري</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>31</dataNameAr>
+                           <dataNameEn>الرابيه</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>32</dataNameAr>
+                           <dataNameEn>جليب الشيوخ</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>33</dataNameAr>
+                           <dataNameEn>صباح الناصر</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>34</dataNameAr>
+                           <dataNameEn>الفردوس</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>35</dataNameAr>
+                           <dataNameEn>جنوب الرابية</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>43</dataNameAr>
+                           <dataNameEn>العارضيه</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>44</dataNameAr>
+                           <dataNameEn>العمريه</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>45</dataNameAr>
+                           <dataNameEn>الفروانيه</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>46</dataNameAr>
+                           <dataNameEn>ضجيج الطائرات</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>93</dataNameAr>
+                           <dataNameEn>اشبيلية</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>100</dataNameAr>
+                           <dataNameEn>عبدالله مبارك الصباح</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>108</dataNameAr>
+                           <dataNameEn>الرحاب</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>111</dataNameAr>
+                           <dataNameEn>الرى</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>119</dataNameAr>
+                           <dataNameEn>العارضيه الحرفيه</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>137</dataNameAr>
+                           <dataNameEn>الري الصناعية</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>140</dataNameAr>
+                           <dataNameEn>جنوب خيطان</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>141</dataNameAr>
+                           <dataNameEn>الشدادية</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>156</dataNameAr>
+                           <dataNameEn>اشبيلية</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>168</dataNameAr>
+                           <dataNameEn>العارضيه (4)</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>169</dataNameAr>
+                           <dataNameEn>العارضيه (6)</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>170</dataNameAr>
+                           <dataNameEn>العارضيه مخازن</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>173</dataNameAr>
+                           <dataNameEn>المطار الدولى</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>201</dataNameAr>
+                           <dataNameEn>عارضية استعمال حكومة</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>202</dataNameAr>
+                           <dataNameEn>عبدالله المبارك</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>211</dataNameAr>
+                           <dataNameEn>منتزه السره</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>224</dataNameAr>
+                           <dataNameEn>ج.غ عبدالله المبارك</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>244</dataNameAr>
+                           <dataNameEn>صباح السالم الجامعية</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>245</dataNameAr>
+                           <dataNameEn>غرب عبدالله المبارك</dataNameEn>
+                           <dataTypeID>3</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>36</dataNameAr>
+                           <dataNameEn>الزهراء</dataNameEn>
+                           <dataTypeID>4</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>39</dataNameAr>
+                           <dataNameEn>السلام</dataNameEn>
+                           <dataTypeID>4</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>40</dataNameAr>
+                           <dataNameEn>الصديق</dataNameEn>
+                           <dataTypeID>4</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>41</dataNameAr>
+                           <dataNameEn>حطين</dataNameEn>
+                           <dataTypeID>4</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>42</dataNameAr>
+                           <dataNameEn>المدائن</dataNameEn>
+                           <dataTypeID>4</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>73</dataNameAr>
+                           <dataNameEn>بيان</dataNameEn>
+                           <dataTypeID>4</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>74</dataNameAr>
+                           <dataNameEn>الجابريه</dataNameEn>
+                           <dataTypeID>4</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>75</dataNameAr>
+                           <dataNameEn>حولى</dataNameEn>
+                           <dataTypeID>4</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>76</dataNameAr>
+                           <dataNameEn>ميدان حولي</dataNameEn>
+                           <dataTypeID>4</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>78</dataNameAr>
+                           <dataNameEn>الرميثيه</dataNameEn>
+                           <dataTypeID>4</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>80</dataNameAr>
+                           <dataNameEn>سلوى</dataNameEn>
+                           <dataTypeID>4</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>81</dataNameAr>
+                           <dataNameEn>السالميه</dataNameEn>
+                           <dataTypeID>4</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>82</dataNameAr>
+                           <dataNameEn>الشعب</dataNameEn>
+                           <dataTypeID>4</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>83</dataNameAr>
+                           <dataNameEn>مشرف</dataNameEn>
+                           <dataTypeID>4</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>84</dataNameAr>
+                           <dataNameEn>النقرة</dataNameEn>
+                           <dataTypeID>4</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>85</dataNameAr>
+                           <dataNameEn>البدع</dataNameEn>
+                           <dataTypeID>4</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>95</dataNameAr>
+                           <dataNameEn>الشهداء</dataNameEn>
+                           <dataTypeID>4</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>104</dataNameAr>
+                           <dataNameEn>مبارك العبد الله</dataNameEn>
+                           <dataTypeID>4</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>118</dataNameAr>
+                           <dataNameEn>الشعب البحري</dataNameEn>
+                           <dataTypeID>4</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>154</dataNameAr>
+                           <dataNameEn>أنجفة</dataNameEn>
+                           <dataTypeID>4</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>171</dataNameAr>
+                           <dataNameEn>منطقة وزارات</dataNameEn>
+                           <dataTypeID>4</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>57</dataNameAr>
+                           <dataNameEn>منطقة الاحمدي</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>58</dataNameAr>
+                           <dataNameEn>ابو حليفه</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>59</dataNameAr>
+                           <dataNameEn>الرقه</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>60</dataNameAr>
+                           <dataNameEn>الصباحيه</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>61</dataNameAr>
+                           <dataNameEn>الفنطاس</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>62</dataNameAr>
+                           <dataNameEn>الفحيحيل</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>63</dataNameAr>
+                           <dataNameEn>المنقف</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>64</dataNameAr>
+                           <dataNameEn>الشعيبه</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>65</dataNameAr>
+                           <dataNameEn>هديه</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>66</dataNameAr>
+                           <dataNameEn>الوفرة الجديدة</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>67</dataNameAr>
+                           <dataNameEn>المهبوله</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>68</dataNameAr>
+                           <dataNameEn>الظهر</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>69</dataNameAr>
+                           <dataNameEn>ضاحية جابر العلى</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>70</dataNameAr>
+                           <dataNameEn>العقيله</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>71</dataNameAr>
+                           <dataNameEn>ام الهيمان</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>72</dataNameAr>
+                           <dataNameEn>مزارع الوفره</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>94</dataNameAr>
+                           <dataNameEn>الزور</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>97</dataNameAr>
+                           <dataNameEn>المقوع</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>101</dataNameAr>
+                           <dataNameEn>علي صباح السالم</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>102</dataNameAr>
+                           <dataNameEn>فهد الأحمد</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>105</dataNameAr>
+                           <dataNameEn>شاليهات الخيران</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>120</dataNameAr>
+                           <dataNameEn>ميناء عبدالله</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>121</dataNameAr>
+                           <dataNameEn>الشعيبة الصناعية(ش)</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>122</dataNameAr>
+                           <dataNameEn>شرق الاحمدي</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>123</dataNameAr>
+                           <dataNameEn>ميناء الاحمدي</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>125</dataNameAr>
+                           <dataNameEn>جنوب الرقه</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>126</dataNameAr>
+                           <dataNameEn>جنوب الصباحيه</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>146</dataNameAr>
+                           <dataNameEn>غرب الفنيطيس</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>148</dataNameAr>
+                           <dataNameEn>صباح الاحمد (1)</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>158</dataNameAr>
+                           <dataNameEn>الجنوبيه الجواخير</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>161</dataNameAr>
+                           <dataNameEn>الشعيبة الصناعية(غ )</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>177</dataNameAr>
+                           <dataNameEn>الوفرة السكنية</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>179</dataNameAr>
+                           <dataNameEn>بر محافظه الاحمدى</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>181</dataNameAr>
+                           <dataNameEn>جنوب الاحمدى</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>185</dataNameAr>
+                           <dataNameEn>رجم خشمان</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>186</dataNameAr>
+                           <dataNameEn>شاليهات الجليعه</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>188</dataNameAr>
+                           <dataNameEn>شاليهات الزور</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>189</dataNameAr>
+                           <dataNameEn>شاليهات الضباعيه</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>190</dataNameAr>
+                           <dataNameEn>شاليهات بنيدر</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>191</dataNameAr>
+                           <dataNameEn>شاليهات ميناءعبدالله</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>192</dataNameAr>
+                           <dataNameEn>شرق الاحمدى</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>193</dataNameAr>
+                           <dataNameEn>شمال الاحمدى</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>196</dataNameAr>
+                           <dataNameEn>صباح الاحمد (2)</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>197</dataNameAr>
+                           <dataNameEn>صباح الاحمد (3)</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>198</dataNameAr>
+                           <dataNameEn>صباح الأحمد البحرية</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>199</dataNameAr>
+                           <dataNameEn>صباح الاحمد (4)</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>200</dataNameAr>
+                           <dataNameEn>صباح الاحمد (5)</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>204</dataNameAr>
+                           <dataNameEn>كبد الزراعية</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>207</dataNameAr>
+                           <dataNameEn>معسكرات الجهراء</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>209</dataNameAr>
+                           <dataNameEn>وسط الاحمدى</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>212</dataNameAr>
+                           <dataNameEn>الادعمي</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>215</dataNameAr>
+                           <dataNameEn>الخيران السكنية</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>217</dataNameAr>
+                           <dataNameEn>الشدادية الصناعية</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>219</dataNameAr>
+                           <dataNameEn>الصبيحيه</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>222</dataNameAr>
+                           <dataNameEn>النويصيب</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>235</dataNameAr>
+                           <dataNameEn>جنوب صباح الأحمد</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>238</dataNameAr>
+                           <dataNameEn>شاليهات النويصيب</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>241</dataNameAr>
+                           <dataNameEn>صباح الأحمد (6)</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>242</dataNameAr>
+                           <dataNameEn>صباح الأحمد الإستثمارية</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>243</dataNameAr>
+                           <dataNameEn>صباح الأحمد الخدمية</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>246</dataNameAr>
+                           <dataNameEn>مدينة الأحمدي</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>247</dataNameAr>
+                           <dataNameEn>مصفاة ميناء الأحمدي</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>248</dataNameAr>
+                           <dataNameEn>مصفاة ميناء عبدالله</dataNameEn>
+                           <dataTypeID>5</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>38</dataNameAr>
+                           <dataNameEn>صبحان الصناعيه</dataNameEn>
+                           <dataTypeID>6</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>77</dataNameAr>
+                           <dataNameEn>الشريط الساحلى ب</dataNameEn>
+                           <dataTypeID>6</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>79</dataNameAr>
+                           <dataNameEn>المسيلة</dataNameEn>
+                           <dataTypeID>6</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>86</dataNameAr>
+                           <dataNameEn>صباح السالم</dataNameEn>
+                           <dataTypeID>6</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>87</dataNameAr>
+                           <dataNameEn>ضاحيه ابو فطيره</dataNameEn>
+                           <dataTypeID>6</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>88</dataNameAr>
+                           <dataNameEn>ضاحيه الفنيطيس</dataNameEn>
+                           <dataTypeID>6</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>89</dataNameAr>
+                           <dataNameEn>القرين</dataNameEn>
+                           <dataTypeID>6</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>92</dataNameAr>
+                           <dataNameEn>مبارك الكبير</dataNameEn>
+                           <dataTypeID>6</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>114</dataNameAr>
+                           <dataNameEn>صباح السالم الإستثمارية</dataNameEn>
+                           <dataTypeID>6</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>115</dataNameAr>
+                           <dataNameEn>العدان</dataNameEn>
+                           <dataTypeID>6</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>116</dataNameAr>
+                           <dataNameEn>القصور</dataNameEn>
+                           <dataTypeID>6</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>117</dataNameAr>
+                           <dataNameEn>ابوفطيره الحرفيه</dataNameEn>
+                           <dataTypeID>6</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>144</dataNameAr>
+                           <dataNameEn>الشريط الساحلي أ</dataNameEn>
+                           <dataTypeID>6</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>145</dataNameAr>
+                           <dataNameEn>شرق القرين</dataNameEn>
+                           <dataTypeID>6</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>149</dataNameAr>
+                           <dataNameEn>المسايل</dataNameEn>
+                           <dataTypeID>6</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>155</dataNameAr>
+                           <dataNameEn>ابوالحصانيه</dataNameEn>
+                           <dataTypeID>6</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>174</dataNameAr>
+                           <dataNameEn>المنطقه الوسطى</dataNameEn>
+                           <dataTypeID>6</dataTypeID>
+                        </dataTypeDetail>
+                        <dataTypeDetail>
+                           <dataNameAr>203</dataNameAr>
+                           <dataNameEn>غرب ابوفطيره الحرفية</dataNameEn>
+                           <dataTypeID>6</dataTypeID>
+                        </dataTypeDetail>
+                     </dataTypeDetailList>
+                     <dataTypeName>regions</dataTypeName>
+                  </ns0:getBankingStaticDataResult>
+               </ns0:getBankingStaticDataResponse>
+            </S:Body>
+         </S:Envelope>

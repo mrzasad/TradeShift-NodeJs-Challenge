@@ -1,0 +1,42 @@
+<S:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/" xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+   <env:Header>
+      <work:WorkContext xmlns:work="http://oracle.com/weblogic/soap/workarea/">rO0ABXoAAAIrAB53ZWJsb2dpYy5hcHAuS0ZIQ29tbW9uQnVzaW5lc3MAAADWAAAAI3dlYmxvZ2ljLndvcmthcmVhLlN0cmluZ1dvcmtDb250ZXh0AA1WMS4zLjAuZVNpZy4xACN3ZWJsb2dpYy5hcHAuS0ZIUmVhbEVzdGF0ZXNCdXNpbmVzcwAAANYAAAAjd2VibG9naWMud29ya2FyZWEuU3RyaW5nV29ya0NvbnRleHQABlYxLjAuMQAfd2VibG9naWMuYXBwLktGSFRyYWRpbmdCdXNpbmVzcwAAANYAAAAjd2VibG9naWMud29ya2FyZWEuU3RyaW5nV29ya0NvbnRleHQAD1YyLjQuMC5BV1AuUERJQwAgd2VibG9naWMuYXBwLktGSFNlY3VyaXR5QnVzaW5lc3MAAADWAAAAI3dlYmxvZ2ljLndvcmthcmVhLlN0cmluZ1dvcmtDb250ZXh0ABFWMS40LjAub3RwLmVTaWcuMgAfd2VibG9naWMuYXBwLktGSEJhbmtpbmdCdXNpbmVzcwAAANYAAAAjd2VibG9naWMud29ya2FyZWEuU3RyaW5nV29ya0NvbnRleHQAGFYxLjExLjQuTWFzdGVyLjAxSnVuMjAyMAAad2VibG9naWMuYXBwLktGSEhyQnVzaW5lc3MAAADWAAAAI3dlYmxvZ2ljLndvcmthcmVhLlN0cmluZ1dvcmtDb250ZXh0AAtWMS4wLjEuV0xTVQAA</work:WorkContext>
+   </env:Header>
+   <S:Body>
+      <ns0:getBankingStaticDataResponse xmlns:ns0="http://www.openuri.org/" xmlns:ns1="http://www.kfh.com/">
+         <ns0:getBankingStaticDataResult>
+            <dataTypeDetailList>
+               <dataTypeDetail>
+                  <dataNameAr>1-500</dataNameAr>
+                  <dataNameEn>1-500</dataNameEn>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>501-1500</dataNameAr>
+                  <dataNameEn>501-1500</dataNameEn>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>1501-5000</dataNameAr>
+                  <dataNameEn>1501-5000</dataNameEn>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>5001-10000</dataNameAr>
+                  <dataNameEn>5001-10000</dataNameEn>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>10001-50000</dataNameAr>
+                  <dataNameEn>10001-50000</dataNameEn>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>50001-100000</dataNameAr>
+                  <dataNameEn>50001-100000</dataNameEn>
+               </dataTypeDetail>
+               <dataTypeDetail>
+                  <dataNameAr>اكثر من 100000</dataNameAr>
+                  <dataNameEn>اكثر من 100000</dataNameEn>
+               </dataTypeDetail>
+            </dataTypeDetailList>
+            <dataTypeName>Add_ExpMonTranAmt</dataTypeName>
+         </ns0:getBankingStaticDataResult>
+      </ns0:getBankingStaticDataResponse>
+   </S:Body>
+</S:Envelope>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Api Documentation - Conduit</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="fonts/fonts.css" rel="stylesheet">
+    <style>
+      body {
+        margin: 0;
+        padding-top: 0;
+      }
+      nav {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        z-index: 100;
+      }
+      #links_container {
+        margin: 0;
+        padding: 0;
+        background-color: #0033a0;
+        font-family: Roboto, sans-serif;
+        font-size: 1rem;
+      }
+      #links_container li {
+        display: inline-block;
+        padding: 10px;
+        color: white;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <redoc menu-toggle="true" hide-download-button="true"  hide-hostname="true"  spec-url="api.docs.json" scroll-y-offset="body > nav"></redoc>\
+    <script src="./redoc.js"> </script>
+    <script>
+    </script>
+  </body>
+</html>
