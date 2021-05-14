@@ -5,4 +5,3 @@ Cicking on the record will display record detail in modal pop up. Front end deve
 
 ![screenshot](https://github.com/mrzasad/TradeShift-NodeJs-Challenge/blob/master/public/searchForm.PNG)
 ![screenshot](https://github.com/mrzasad/TradeShift-NodeJs-Challenge/blob/master/public/searchresults.PNG)
-
